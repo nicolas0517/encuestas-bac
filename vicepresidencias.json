@@ -1,0 +1,960 @@
+{
+  "vicepresidencias" : 
+  [
+    {
+      "vicepresidencia" : 1,
+      "norma" : 240403007
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 240403008
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 240403009
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 240403012
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 240403015
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 240403027
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 240403031
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 210301006
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 210303004
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 210601016
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 260401019
+    },
+    {
+      "vicepresidencia" : 1,
+      "norma" : 210301011
+    },
+    {
+      "vicepresidencia" : 2,
+      "norma" : 210301016
+    },
+    {
+      "vicepresidencia" : 2,
+      "norma" : 210301002
+    },
+    {
+      "vicepresidencia" : 2,
+      "norma" : 210301004
+    },
+    {
+      "vicepresidencia" : 2,
+      "norma" : 210301017
+    },
+    {
+      "vicepresidencia" : 2,
+      "norma" : 210301054
+    },
+    {
+      "vicepresidencia" : 2,
+      "norma" : 210301077
+    },
+    {
+      "vicepresidencia" : 2,
+      "norma" : 260201021
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601001
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601002
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601008
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601010
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601003
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601004
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601007
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601013
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601020
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601026
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601021
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210601024
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210101062
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 210602021
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 240403007
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 240403008
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 240403009
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 240403012
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 240403015
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 240403027
+    },
+    {
+      "vicepresidencia" : 3,
+      "norma" : 220501020
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301014
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301031
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301002
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301003
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301049
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301068
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301079
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301008
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 220501035
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 220501051
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 220501063
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 220501061
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210301076
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 220501006
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210201007
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 210201017
+    },
+    {
+      "vicepresidencia" : 4,
+      "norma" : 240201054
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 210301002
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 210301031
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 260201021
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 210601003
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 260101033
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 210301008
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 260101027
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 260101034
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 260101047
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 260101042
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 260101021
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 210301004
+    },
+    {
+      "vicepresidencia" : 5,
+      "norma" : 210301032
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301046
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301050
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301047
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301016
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301048
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301068
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301021
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301023
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301049
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301050
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301068
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301021
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301032
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301037
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303003
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303026
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303023
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303027
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301079
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301080
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 260201032
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303014
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210601004
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301037
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303015
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303016
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301008
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303004
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303019
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303022
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210301055
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303023
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303025
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303026
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303027
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303028
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210601003
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303019
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210601020
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303022
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303023
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210601009
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210601020
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303024
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303027
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210601022
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210601020
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303025
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303028
+    },
+    {
+      "vicepresidencia" : 6,
+      "norma" : 210303022
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101025
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101051
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101052
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101053
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101055
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101027
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101034
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101047
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101042
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101021
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101008
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101054
+    },
+    {
+      "vicepresidencia" : 7,
+      "norma" : 260101038
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201007
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201039
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210601014
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201040
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201041
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201042
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201043
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201044
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201045
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201046
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201047
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201048
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201049
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201053
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201050
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210303022
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210601026
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201043
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201047
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201048
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201050
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210201051
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210601026
+    },
+    {
+      "vicepresidencia" : 8,
+      "norma" : 210601020
+    },
+    {
+      "vicepresidencia" : 9,
+      "norma" : 210301001
+    },
+    {
+      "vicepresidencia" : 9,
+      "norma" : 210301005
+    },
+    {
+      "vicepresidencia" : 9,
+      "norma" : 210301078
+    },
+    {
+      "vicepresidencia" : 9,
+      "norma" : 210301056
+    },
+    {
+      "vicepresidencia" : 9,
+      "norma" : 210301003
+    },
+    {
+      "vicepresidencia" : 9,
+      "norma" : 210301085
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501019
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501020
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501021
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501076
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 291901001
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501046
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501001
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 291901001
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501043
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501044
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501045
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501023
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501013
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501014
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501047
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501048
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501049
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501013
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501032
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501072
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501001
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501002
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501046
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 291901001
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 260101042
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501103
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501104
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501105
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501106
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501107
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501091
+    },
+    {
+      "vicepresidencia" : 10,
+      "norma" : 220501086
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301001
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301056
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301003
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210601026
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301005
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301078
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 260401019
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 260401020
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301005
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301066
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 260201032
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301049
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301079
+    },
+    {
+      "vicepresidencia" : 11,
+      "norma" : 210301085
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210301037
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 280102034
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 280102047
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 280101035
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 280101068
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 280101069
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210601005
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210302001
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210302003
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210601016
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210101023
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210601003
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210601004
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210601007
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210601011
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 210601013
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 291901014
+    },
+    {
+      "vicepresidencia" : 12,
+      "norma" : 291901015
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301016
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301068
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301056
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301003
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301046
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301051
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301049
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 220501020
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301001
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210301056
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 260401018
+    },
+    {
+      "vicepresidencia" : 13,
+      "norma" : 210201007
+    }
+  ]}

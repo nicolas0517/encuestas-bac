@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Modulo normas</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="ajax.js"></script>
+
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center">Módulo NCL</h1>
+        <div id="creacion_encuesta" class="center-block">
+            <h4 class="text-justify">Le invitamos a que consulte algunas de las Normas de Competencia Laboral definidas por el SENA (Servicio Nacional de Aprendizaje), allí encontrará la estandarización de algunas funciones productivas, el objetivo es que pueda ubicar cuales
+                cumplen o se acercan a la realidad de las funciones que ejecuta en su cargo. Si usted considera que ninguna cumple con sus responsabilidades o desea agregar otras no incluidas, puede dirigirse a los módulos de "Responsabilidades" incluidos
+                en la encuesta para dejar completa la información relacionada con sus funciones. Gracias!</h4>
+            <form name="datos_usuario" id="datos_usuario">
+                <div class="form-group">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" class="form-control" id="nombre" disabled>
+                </div>
+                <button type="button" class="btn btn-success" id="iniciar_encuesta">Iniciar encuesta</button>
+            </form>
+        </div>
+        <div id="error_crear_encuesta">
+
+        </div>
+        <div id="preguntas_encuesta">
+            <form name="vicepresidencias">
+                <div class="form-group">
+                    <label for="vicepresidencia">Escoja una vicepresidencia si desea filtrar las normas:</label>
+                    <select class="form-control" id="vicepresidencia" name="vicepresidencia">
+                    
+                    </select>
+                </div>
+            </form>
+            <form name="encuesta">
+                <div class="form-group">
+                    <label for="normas">Escoja una norma:</label>
+                    <select class="form-control" id="normas" name="normas">
+                        
+                    </select>
+                </div>
+                <p>Seleccione los elementos que considere, al seleccionarlo se le desplegaran los criterios, conocimientos, rangos y evidencias de ese elemento. Seleccione todas las opciones que considere</p>
+                <div id="elementos">
+
+                </div>
+                <button type="button" class="btn btn-primary" id="nueva_norma">Guardar y Escoger otra norma</button>
+                <button type="button" class="btn btn-success" id="finalizar_encuesta">Guardar y Finalizar encuesta</button>
+            </form>
+            <div class="normasescogidas">
+
+            </div>
+        </div>
+        <div id="final_encuesta">
+            <h3 class="text-center">Gracias por responder la encuesta</h3>
+            <div class="normasescogidas center-block">
+
+            </div>
+            <h3 class="text-center">Por favor, cerrar esta ventana para continuar</h3>
+        </div>
+    </div>
+</body>
+
+</html>
