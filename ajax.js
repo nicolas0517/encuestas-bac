@@ -6,8 +6,6 @@ $(document).ready(function() {
     var normasescogidas = new Array();
     var nombre_persona;
     var idem;
-    var idper;
-    var idvic;
     var texto = "<h4>Normas seleccionadas:</h4>";
     //oculta las preguntas de la encuesta y el final mientras inician la encuesta
     $("#preguntas_encuesta").hide();
@@ -25,12 +23,8 @@ $(document).ready(function() {
             if (console && console.log) {
                 console.log("La solicitud del usuario se ha completado correctamente.");
                 idem = data.idem;
-                idper = data.idper;
-                idvic = data.idvic;
                 nombre_persona = data.nomemp;
                 console.log("idem: " + idem);
-                console.log("idper: " + idper);
-                console.log("idvic: " + idvic);
                 console.log("nombre: " + nombre_persona);
                 $("#nombre").val(nombre_persona);
             }
@@ -43,7 +37,7 @@ $(document).ready(function() {
 
     //crea la encuesta y guarda el id de ella
     $("#iniciar_encuesta").click(function() {
-        $.post("crearencuesta.php", { nombre: nombre_persona, idem: idem, idper: idper, idvic: idvic }, function(data) {
+        $.post("crearencuesta.php", { nombre: nombre_persona, idem: idem }, function(data) {
             numero_encuesta = data;
             console.log(numero_encuesta);
             if (numero_encuesta === 0) {
@@ -96,7 +90,6 @@ $(document).ready(function() {
 
     //funcion que obtiene la norma, los elementos, los criterios, los conocimientos, los rangos y las evidencias escogidas por el encuestado
     $("#nueva_norma").click(function() {
-        $("#elementos").html("<p> Escoja una nueva norma </p>");
         console.log(numero_encuesta);
         console.log(norma_escogida);
         texto += "<p>" + descripcion_norma + "</p>";
@@ -144,6 +137,7 @@ $(document).ready(function() {
             });
         };
         alert("Datos enviados correctamente, escoja una nueva norma");
+        $("#elementos").html("<p> Escoja una nueva norma </p>");
     });
 
     //funcion que obtiene la norma, los elementos, los criterios, los conocimientos, los rangos y las evidencias escogidas por el encuestado y termina la encuesta

@@ -3,15 +3,13 @@
 
     $nombre = utf8_decode($_POST['nombre']);
     $idem = $_POST['idem'];
-    $idper = $_POST['idper'];
-    $idvic = $_POST['idvic'];
     $respuesta = "";
     
-    if (isset($nombre) and isset($idem) and isset($idper) and isset($idvic)) {
+    if (isset($nombre) and isset($idem)) {
         
         $con=conectar();
 
-        $consulta=consultar($con,"INSERT INTO encuesta VALUES (NULL, '$nombre', $idem, $idper, $idvic)");
+        $consulta=consultar($con,"INSERT INTO encuesta VALUES (NULL, '$nombre', $idem)");
         $respuesta = mysqli_insert_id($con);
 
     } else {
