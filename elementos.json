@@ -1,0 +1,3844 @@
+{
+  "elemento" : 
+  [
+    {
+      "norma" : 280601040,
+      "id" : "EL01",
+      "elemento" : "280601040EL01",
+      "descripcion" : "Revisar condiciones del vehículo automotor de acuerdo a procedimientos y normas vigentes"
+    },
+    {
+      "norma" : 280601040,
+      "id" : "EL02",
+      "elemento" : "280601040EL02",
+      "descripcion" : "Realizar mantenimiento preventivo del vehículo automotor de acuerdo a procedimientos técnicos y normatividad vigente."
+    },
+    {
+      "norma" : 260101042,
+      "id" : "EL01",
+      "elemento" : "260101042EL01",
+      "descripcion" : " Proporcionar información a clientes y/o usuarios de acuerdo con sus requerimientos y con el protocolo de manejo de información.\n"
+    },
+    {
+      "norma" : 260101042,
+      "id" : "EL02",
+      "elemento" : "260101042EL02",
+      "descripcion" : "Resolver situaciones de servicio a partir de los requerimientos y necesidades de los clientes"
+    },
+    {
+      "norma" : 260101042,
+      "id" : "EL03",
+      "elemento" : "260101042EL03",
+      "descripcion" : "Desarrollar relaciones interpersonales de acuerdo con principios éticos y de comunicación."
+    },
+    {
+      "norma" : 220501072,
+      "id" : "EL01",
+      "elemento" : "220501072EL01",
+      "descripcion" : "Instalar los equipos de cómputo de acuerdo con las especificaciones del diseño y del fabricante."
+    },
+    {
+      "norma" : 220501072,
+      "id" : "EL02",
+      "elemento" : "220501072EL02",
+      "descripcion" : "Configurar los servicios de red para asegurar la operación de los recursos y la seguridad de la misma."
+    },
+    {
+      "norma" : 220501072,
+      "id" : "EL03",
+      "elemento" : "220501072EL03",
+      "descripcion" : "Gestionar los servicios establecidos para garantizar el rendimiento de la red."
+    },
+    {
+      "norma" : 220501013,
+      "id" : "EL01",
+      "elemento" : "220501013EL01",
+      "descripcion" : "Instalar software de gestión de red de acuerdo con la infraestructura tecnológica y especificaciones del fabricante."
+    },
+    {
+      "norma" : 220501013,
+      "id" : "EL02",
+      "elemento" : "220501013EL02",
+      "descripcion" : "Configurar el hardware y el software de administración de redes para asegurar la operación de los recursos"
+    },
+    {
+      "norma" : 220501013,
+      "id" : "EL03",
+      "elemento" : "220501013EL03",
+      "descripcion" : "Gestionar los recursos de la red para mejorar la continuidad en la operación del sistema."
+    },
+    {
+      "norma" : 260101038,
+      "id" : "EL01",
+      "elemento" : "260101038EL01",
+      "descripcion" : "Analizar los resultados de las evaluaciones del servicio teniendo en cuenta los parámetros o estándares establecidos."
+    },
+    {
+      "norma" : 260101038,
+      "id" : "EL02",
+      "elemento" : "260101038EL02",
+      "descripcion" : "Definir las actividades del programa según diagnósticos del servicio, objetivos y políticas de la organización."
+    },
+    {
+      "norma" : 260101008,
+      "id" : "EL01",
+      "elemento" : "260101008EL01",
+      "descripcion" : "Documentar procesos, procedimientos y protocolos teniendo en cuenta las expectativas de los clientes."
+    },
+    {
+      "norma" : 260101008,
+      "id" : "EL02",
+      "elemento" : "260101008EL02",
+      "descripcion" : "Definir ciclos de servicio a partir del plan estratégico de la organización."
+    },
+    {
+      "norma" : 220501086,
+      "id" : "EL01",
+      "elemento" : "220501086EL01",
+      "descripcion" : "Caracterizar servicios de tecnologías de la información"
+    },
+    {
+      "norma" : 220501086,
+      "id" : "EL02",
+      "elemento" : "220501086EL02",
+      "descripcion" : " Definir recursos de infraestructura"
+    },
+    {
+      "norma" : 220501091,
+      "id" : "EL01",
+      "elemento" : "220501091EL01",
+      "descripcion" : "Acondicionar componentes de tecnología de Voz sobre IP"
+    },
+    {
+      "norma" : 220501091,
+      "id" : "EL02",
+      "elemento" : "220501091EL02",
+      "descripcion" : "Instalar componentes de tecnología de Voz sobre IP"
+    },
+    {
+      "norma" : 220501107,
+      "id" : "EL01",
+      "elemento" : "220501107EL01",
+      "descripcion" : "Preparar el entorno"
+    },
+    {
+      "norma" : 220501107,
+      "id" : "EL02",
+      "elemento" : "220501107EL02",
+      "descripcion" : "Instalar red inalámbrica"
+    },
+    {
+      "norma" : 220501106,
+      "id" : "EL01",
+      "elemento" : "220501106EL01",
+      "descripcion" : "Alistar entorno de configuración"
+    },
+    {
+      "norma" : 220501106,
+      "id" : "EL02",
+      "elemento" : "220501106EL02",
+      "descripcion" : "Parametrizar dispositivos de cómputo"
+    },
+    {
+      "norma" : 220501103,
+      "id" : "EL01",
+      "elemento" : "220501103EL01",
+      "descripcion" : "Instalar cableado estructurado"
+    },
+    {
+      "norma" : 220501103,
+      "id" : "EL02",
+      "elemento" : "220501103EL02",
+      "descripcion" : "Certificar cableado estructurado"
+    },
+    {
+      "norma" : 220501104,
+      "id" : "EL01",
+      "elemento" : "220501104EL01",
+      "descripcion" : "Alistar entorno de configuración"
+    },
+    {
+      "norma" : 220501104,
+      "id" : "EL02",
+      "elemento" : "220501104EL02",
+      "descripcion" : "Parametrizar dispositivos activos"
+    },
+    {
+      "norma" : 220501105,
+      "id" : "EL01",
+      "elemento" : "220501105EL01",
+      "descripcion" : " Organizar actividades de gestión"
+    },
+    {
+      "norma" : 220501105,
+      "id" : "EL02",
+      "elemento" : "220501105EL02",
+      "descripcion" : "Validar funcionamiento"
+    },
+    {
+      "norma" : 220501105,
+      "id" : "EL03",
+      "elemento" : "220501105EL03",
+      "descripcion" : "Validar funcionamiento\n"
+    },
+    {
+      "norma" : 220501002,
+      "id" : "EL01",
+      "elemento" : "220501002EL01",
+      "descripcion" : "Determinar fallas"
+    },
+    {
+      "norma" : 220501002,
+      "id" : "EL02",
+      "elemento" : "220501002EL02",
+      "descripcion" : "Desensamblar hardware"
+    },
+    {
+      "norma" : 220501002,
+      "id" : "EL03",
+      "elemento" : "220501002EL03",
+      "descripcion" : "Corregir fallas"
+    },
+    {
+      "norma" : 220501001,
+      "id" : "EL01",
+      "elemento" : "220501001EL01",
+      "descripcion" : "Desensamblar hardware"
+    },
+    {
+      "norma" : 220501001,
+      "id" : "EL02",
+      "elemento" : "220501001EL02",
+      "descripcion" : "Limpiar el equipo de cómputo"
+    },
+    {
+      "norma" : 220501001,
+      "id" : "EL03",
+      "elemento" : "220501001EL03",
+      "descripcion" : "Ensamblar hardware"
+    },
+    {
+      "norma" : 220501045,
+      "id" : "EL01",
+      "elemento" : "220501045EL01",
+      "descripcion" : "Estructurar la solución de hardware y software requerida."
+    },
+    {
+      "norma" : 220501045,
+      "id" : "EL02",
+      "elemento" : "220501045EL02",
+      "descripcion" : "Preparar la propuesta técnica"
+    },
+    {
+      "norma" : 220501045,
+      "id" : "EL03",
+      "elemento" : "220501045EL03",
+      "descripcion" : "Inspeccionar la recepción del hardware y el software"
+    },
+    {
+      "norma" : 260101054,
+      "id" : "EL01",
+      "elemento" : "260101054EL01",
+      "descripcion" : "Programar acciones tácticas"
+    },
+    {
+      "norma" : 260101054,
+      "id" : "EL02",
+      "elemento" : "260101054EL02",
+      "descripcion" : "Establecer modelo de servicio."
+    },
+    {
+      "norma" : 260101054,
+      "id" : "EL03",
+      "elemento" : "260101054EL03",
+      "descripcion" : "Medir resultados de la atención"
+    },
+    {
+      "norma" : 210602002,
+      "id" : "EL01",
+      "elemento" : "210602002EL01",
+      "descripcion" : "Realizar el seguimiento a los documentos de archivo de acuerdo con la normativa vigente y con las políticas institucionales."
+    },
+    {
+      "norma" : 210602002,
+      "id" : "EL02",
+      "elemento" : "210602002EL02",
+      "descripcion" : "Elaborar reportes estadísticos de documentos de archivo de acuerdo con la normativa vigente y políticas establecidas"
+    },
+    {
+      "norma" : 210602003,
+      "id" : "EL01",
+      "elemento" : "210602003EL01",
+      "descripcion" : "Ingresar registros a la base de datos según parámetros establecidos y políticas institucionales."
+    },
+    {
+      "norma" : 210602004,
+      "id" : "EL01",
+      "elemento" : "210602004EL01",
+      "descripcion" : "Divulgar servicios archivísticos de acuerdo con la disponibilidad de documentos de archivo y requerimientos de los usuarios"
+    },
+    {
+      "norma" : 210602004,
+      "id" : "EL02",
+      "elemento" : "210602004EL02",
+      "descripcion" : "Aplicar protocolos de acceso a la información y los documentos de archivo, según condiciones institucionales y normativa vigente."
+    },
+    {
+      "norma" : 210602004,
+      "id" : "EL03",
+      "elemento" : "210602004EL03",
+      "descripcion" : "Organizar la divulgación de los servicios a prestar y condiciones de los usuarios."
+    },
+    {
+      "norma" : 210602005,
+      "id" : "EL01",
+      "elemento" : "210602005EL01",
+      "descripcion" : "Orientar el servicio de consulta de acuerdo con las necesidades de los usuarios, políticas de la organización y normativa vigente."
+    },
+    {
+      "norma" : 210602005,
+      "id" : "EL02",
+      "elemento" : "210602005EL02",
+      "descripcion" : "Atender a los usuarios según sus requerimientos, políticas de la organización y normativa vigente."
+    },
+    {
+      "norma" : 210602005,
+      "id" : "EL03",
+      "elemento" : "210602005EL03",
+      "descripcion" : "Evaluar la calidad de la prestación del servicio de acuerdo con las políticas organizacionales, de calidad y los criterios de desempeño establecidos."
+    },
+    {
+      "norma" : 210602022,
+      "id" : "EL01",
+      "elemento" : "210602022EL01",
+      "descripcion" : "Alistar serie documental"
+    },
+    {
+      "norma" : 210602022,
+      "id" : "EL02",
+      "elemento" : "210602022EL02",
+      "descripcion" : "Recibir serie documental"
+    },
+    {
+      "norma" : 210602022,
+      "id" : "EL03",
+      "elemento" : "210602022EL03",
+      "descripcion" : "Instalar serie documental"
+    },
+    {
+      "norma" : 210602011,
+      "id" : "EL01",
+      "elemento" : "210602011EL01",
+      "descripcion" : " Realizar mantenimiento de los archivos de acuerdo con la normativa vigente y la política archivística institucional."
+    },
+    {
+      "norma" : 210602011,
+      "id" : "EL02",
+      "elemento" : "210602011EL02",
+      "descripcion" : "Aplicar herramientas tecnológicas de acuerdo con políticas institucionales."
+    },
+    {
+      "norma" : 210602012,
+      "id" : "EL01",
+      "elemento" : "210602012EL01",
+      "descripcion" : "Adecuar los depósitos de archivo de acuerdo con la normatividad vigente y la política archivística institucional."
+    },
+    {
+      "norma" : 210602012,
+      "id" : "EL02",
+      "elemento" : "210602012EL02",
+      "descripcion" : "Proteger los documentos de archivo de acuerdo con la normatividad vigente"
+    },
+    {
+      "norma" : 210602012,
+      "id" : "EL03",
+      "elemento" : "210602012EL03",
+      "descripcion" : "Utilizar las unidades de conservación y almacenamiento de documentos de archivo de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210602016,
+      "id" : "EL01",
+      "elemento" : "210602016EL01",
+      "descripcion" : "Elaborar planes de acción a partir de los resultados de la evaluación del pgdi o auditoría"
+    },
+    {
+      "norma" : 210602016,
+      "id" : "EL02",
+      "elemento" : "210602016EL02",
+      "descripcion" : "Ejecutar los planes de acción de acuerdo con las políticas institucionales"
+    },
+    {
+      "norma" : 210602017,
+      "id" : "EL01",
+      "elemento" : "210602017EL01",
+      "descripcion" : "Preparar los documentos de acuerdo con normativa vigente y procedimientos establecidos."
+    },
+    {
+      "norma" : 210602017,
+      "id" : "EL02",
+      "elemento" : "210602017EL02",
+      "descripcion" : "Operar los equipos requeridos de acuerdo con normativa vigente y procedimientos establecidos"
+    },
+    {
+      "norma" : 210602017,
+      "id" : "EL03",
+      "elemento" : "210602017EL03",
+      "descripcion" : "Aplicar procedimiento de microfilmación de acuerdo con políticas institucionales y normas vigentes."
+    },
+    {
+      "norma" : 210602018,
+      "id" : "EL01",
+      "elemento" : "210602018EL01",
+      "descripcion" : "Preparar los documentos según normativa vigente y procedimientos establecidos"
+    },
+    {
+      "norma" : 210602018,
+      "id" : "EL02",
+      "elemento" : "210602018EL02",
+      "descripcion" : "Operar los equipos de digitalización de acuerdo con normativa vigente y políticas institucionales."
+    },
+    {
+      "norma" : 210602018,
+      "id" : "EL03",
+      "elemento" : "210602018EL03",
+      "descripcion" : "Aplicar procedimiento de digitalización de acuerdo con políticas institucionales y normas vigentes."
+    },
+    {
+      "norma" : 210602019,
+      "id" : "EL01",
+      "elemento" : "210602019EL01",
+      "descripcion" : "Diseñar los procesos a automatizar de acuerdo con el alcance del proyecto, políticas institucionales y normativa vigente."
+    },
+    {
+      "norma" : 210602019,
+      "id" : "EL02",
+      "elemento" : "210602019EL02",
+      "descripcion" : "Desarrollar los procesos a automatizar de acuerdo con diseño establecido."
+    },
+    {
+      "norma" : 210602021,
+      "id" : "EL01",
+      "elemento" : "210602021EL01",
+      "descripcion" : "Aplicar Instrumentos Archivísticos"
+    },
+    {
+      "norma" : 210602021,
+      "id" : "EL02",
+      "elemento" : "210602021EL02",
+      "descripcion" : "Consolidar la transferencia documental"
+    },
+    {
+      "norma" : 220501045,
+      "id" : "EL01",
+      "elemento" : "220501045EL01",
+      "descripcion" : "Estructurar la solución de hardware y software requerida."
+    },
+    {
+      "norma" : 220501045,
+      "id" : "EL02",
+      "elemento" : "220501045EL02",
+      "descripcion" : "Preparar la propuesta técnica"
+    },
+    {
+      "norma" : 220501045,
+      "id" : "EL03",
+      "elemento" : "220501045EL03",
+      "descripcion" : "Inspeccionar la recepción del hardware y el software"
+    },
+    {
+      "norma" : 260101021,
+      "id" : "EL01",
+      "elemento" : "260101021EL01",
+      "descripcion" : "Desarrollar la negociación"
+    },
+    {
+      "norma" : 260101021,
+      "id" : "EL02",
+      "elemento" : "260101021EL02",
+      "descripcion" : "Tramitar acuerdos o contratos comerciales"
+    },
+    {
+      "norma" : 260101027,
+      "id" : "EL01",
+      "elemento" : "260101027EL01",
+      "descripcion" : "Validar los datos según procedimientos específicos del proyecto de investigación"
+    },
+    {
+      "norma" : 260101027,
+      "id" : "EL02",
+      "elemento" : "260101027EL02",
+      "descripcion" : "Codificar los datos recolectados teniendo en cuenta metodología de análisis y objetivos del estudio"
+    },
+    {
+      "norma" : 260101027,
+      "id" : "EL03",
+      "elemento" : "260101027EL03",
+      "descripcion" : "Tabular los datos recolectados según características de las variables de investigación"
+    },
+    {
+      "norma" : 260101027,
+      "id" : "EL04",
+      "elemento" : "260101027EL04",
+      "descripcion" : "Elaborar matrices y/o cuadros de salidas de información teniendo en cuenta objetivos, metodología y tipo de investigación"
+    },
+    {
+      "norma" : 260101034,
+      "id" : "EL01",
+      "elemento" : "260101034EL01",
+      "descripcion" : "Verificar la experiencia del  cliente con el producto y servicio."
+    },
+    {
+      "norma" : 260101034,
+      "id" : "EL02",
+      "elemento" : "260101034EL02",
+      "descripcion" : "Desarrollar acciones de respuesta al cliente"
+    },
+    {
+      "norma" : 260101047,
+      "id" : "EL01",
+      "elemento" : "260101047EL01",
+      "descripcion" : "Asesorar al cliente"
+    },
+    {
+      "norma" : 260101047,
+      "id" : "EL02",
+      "elemento" : "260101047EL02",
+      "descripcion" : "Presentar la propuesta de productos y servicios"
+    },
+    {
+      "norma" : 260101047,
+      "id" : "EL03",
+      "elemento" : "260101047EL03",
+      "descripcion" : "Cerrar la venta"
+    },
+    {
+      "norma" : 260101051,
+      "id" : "EL01",
+      "elemento" : "260101051EL01",
+      "descripcion" : "Caracterizar el proyecto"
+    },
+    {
+      "norma" : 260101051,
+      "id" : "EL02",
+      "elemento" : "260101051EL02",
+      "descripcion" : "Documentar el proyecto"
+    },
+    {
+      "norma" : 260101052,
+      "id" : "EL01",
+      "elemento" : "260101052EL01",
+      "descripcion" : "Establecer la estrategia creativa"
+    },
+    {
+      "norma" : 260101052,
+      "id" : "EL02",
+      "elemento" : "260101052EL02",
+      "descripcion" : "Caracterizar los medios."
+    },
+    {
+      "norma" : 260101053,
+      "id" : "EL01",
+      "elemento" : "260101053EL01",
+      "descripcion" : "Establecer la estrategia de comunicación"
+    },
+    {
+      "norma" : 260101053,
+      "id" : "EL02",
+      "elemento" : "260101053EL02",
+      "descripcion" : "Programar tácticas de ejecución."
+    },
+    {
+      "norma" : 260101055,
+      "id" : "EL01",
+      "elemento" : "260101055EL01",
+      "descripcion" : "Caracterizar canales digitales"
+    },
+    {
+      "norma" : 260101055,
+      "id" : "EL02",
+      "elemento" : "260101055EL02",
+      "descripcion" : " Establecer lineamientos conceptuales del canal"
+    },
+    {
+      "norma" : 220501072,
+      "id" : "EL01",
+      "elemento" : "220501072EL01",
+      "descripcion" : "Instalar los equipos de cómputo de acuerdo con las especificaciones del diseño y del fabricante."
+    },
+    {
+      "norma" : 220501072,
+      "id" : "EL02",
+      "elemento" : "220501072EL02",
+      "descripcion" : "Configurar los servicios de red para asegurar la operación de los recursos y la seguridad de la misma"
+    },
+    {
+      "norma" : 220501072,
+      "id" : "EL03",
+      "elemento" : "220501072EL03",
+      "descripcion" : "Gestionar los servicios establecidos para garantizar el rendimiento de la red"
+    },
+    {
+      "norma" : 210303024,
+      "id" : "EL01",
+      "elemento" : "210303024EL01",
+      "descripcion" : "Liquidar impuestos"
+    },
+    {
+      "norma" : 210303024,
+      "id" : "EL02",
+      "elemento" : "210303024EL02",
+      "descripcion" : "Diligenciar declaración"
+    },
+    {
+      "norma" : 210201008,
+      "id" : "EL01",
+      "elemento" : "210201008EL01",
+      "descripcion" : "Investigar salarios teniendo en cuenta el mercado laboral y cargos definidos por la organización."
+    },
+    {
+      "norma" : 210201008,
+      "id" : "EL02",
+      "elemento" : "210201008EL02",
+      "descripcion" : " Elaborar estructura salarial acorde con las metodologías establecidas por la organización."
+    },
+    {
+      "norma" : 291901014,
+      "id" : "EL01",
+      "elemento" : "291901014EL01",
+      "descripcion" : "Determinar las  características y especificaciones del sistema "
+    },
+    {
+      "norma" : 291901014,
+      "id" : "EL02",
+      "elemento" : "291901014EL02",
+      "descripcion" : "Elaborar documentos de especificaciones y arquitectura del sistema"
+    },
+    {
+      "norma" : 291901015,
+      "id" : "EL01",
+      "elemento" : "291901015EL01",
+      "descripcion" : "Asegurar  las condiciones técnicas y logísticas de instalación  "
+    },
+    {
+      "norma" : 291901015,
+      "id" : "EL02",
+      "elemento" : "291901015EL02",
+      "descripcion" : "Realizar el montaje del sistema"
+    },
+    {
+      "norma" : 291901015,
+      "id" : "EL03",
+      "elemento" : "291901015EL03",
+      "descripcion" : "Configurar el funcionamiento del sistema domótico y/o inmotico"
+    },
+    {
+      "norma" : 210101062,
+      "id" : "EL01",
+      "elemento" : "210101062EL01",
+      "descripcion" : " Valorar  inventarios"
+    },
+    {
+      "norma" : 210101062,
+      "id" : "EL02",
+      "elemento" : "210101062EL02",
+      "descripcion" : "Monitorear inventarios "
+    },
+    {
+      "norma" : 210601001,
+      "id" : "EL01",
+      "elemento" : "210601001EL01",
+      "descripcion" : " Redactar los documentos, de acuerdo con las normas vigentes."
+    },
+    {
+      "norma" : 210601001,
+      "id" : "EL02",
+      "elemento" : "210601001EL02",
+      "descripcion" : " Digitar los documentos, de acuerdo con su tipo y normas establecidas."
+    },
+    {
+      "norma" : 210601001,
+      "id" : "EL03",
+      "elemento" : "210601001EL03",
+      "descripcion" : " Transcribir los documentos, de acuerdo con las normas vigentes."
+    },
+    {
+      "norma" : 210601002,
+      "id" : "EL01",
+      "elemento" : "210601002EL01",
+      "descripcion" : "Coordinar la planeación de eventos, teniendo en cuenta el proceso administrativo y las políticas de la organización."
+    },
+    {
+      "norma" : 210601002,
+      "id" : "EL02",
+      "elemento" : "210601002EL02",
+      "descripcion" : "Divulgar eventos, teniendo en cuenta el plan general"
+    },
+    {
+      "norma" : 210601002,
+      "id" : "EL03",
+      "elemento" : "210601002EL03",
+      "descripcion" : "Ejecutar eventos empresariales, teniendo en cuenta protocolos y políticas institucionales."
+    },
+    {
+      "norma" : 210601010,
+      "id" : "EL01",
+      "elemento" : "210601010EL01",
+      "descripcion" : "Ofrecer atención personalizada a los clientes de acuerdo con las políticas de la organización"
+    },
+    {
+      "norma" : 210601010,
+      "id" : "EL02",
+      "elemento" : "210601010EL02",
+      "descripcion" : "Atender a los clientes utilizando las tecnologías de acuerdo con el protocolo de la organización"
+    },
+    {
+      "norma" : 210601011,
+      "id" : "EL01",
+      "elemento" : "210601011EL01",
+      "descripcion" : "Compilar la información empleando las fuentes disponibles, de acuerdo con las necesidades de la organización"
+    },
+    {
+      "norma" : 210601011,
+      "id" : "EL02",
+      "elemento" : "210601011EL02",
+      "descripcion" : "Tabular la información empleando las herramientas disponibles"
+    },
+    {
+      "norma" : 210601011,
+      "id" : "EL03",
+      "elemento" : "210601011EL03",
+      "descripcion" : "Emitir resultados de acuerdo con el propósito planteado por la organización"
+    },
+    {
+      "norma" : 210601013,
+      "id" : "EL01",
+      "elemento" : "210601013EL01",
+      "descripcion" : "Registrar las operaciones del ejercicio en los documentos correspondientes de acuerdo con los procedimientos organizacionales, normas y legislación vigentes."
+    },
+    {
+      "norma" : 210601013,
+      "id" : "EL02",
+      "elemento" : "210601013EL02",
+      "descripcion" : "Elaborar los estados financieros de acuerdo con los procedimientos organizacionales, normas y legislación vigentes"
+    },
+    {
+      "norma" : 210601013,
+      "id" : "EL03",
+      "elemento" : "210601013EL03",
+      "descripcion" : "Analizar las transacciones comerciales y los estados financieros de la empresa teniendo en cuenta los resultados obtenidos y las políticas organizacionales."
+    },
+    {
+      "norma" : 210602021,
+      "id" : "EL01",
+      "elemento" : "210602021EL01",
+      "descripcion" : "Aplicar Instrumentos Archivísticos"
+    },
+    {
+      "norma" : 210602021,
+      "id" : "EL02",
+      "elemento" : "210602021EL02",
+      "descripcion" : "Consolidar la transferencia documental"
+    },
+    {
+      "norma" : 210601014,
+      "id" : "EL04",
+      "elemento" : "210601014EL04",
+      "descripcion" : "Analizar la situación o problema teniendo en cuenta los objetivos, políticas, normatividad, y la tecnología disponible en la organización."
+    },
+    {
+      "norma" : 210601014,
+      "id" : "EL05",
+      "elemento" : "210601014EL05",
+      "descripcion" : "Implementar la decisión de acuerdo con las políticas de la organización y el objetivo que se persigue."
+    },
+    {
+      "norma" : 210601014,
+      "id" : "EL06",
+      "elemento" : "210601014EL06",
+      "descripcion" : "Realizar el seguimiento a las decisiones implementadas de acuerdo con el logro de los resultados."
+    },
+    {
+      "norma" : 210602001,
+      "id" : "EL01",
+      "elemento" : "210602001EL01",
+      "descripcion" : "Recibir documentos de archivo"
+    },
+    {
+      "norma" : 210602001,
+      "id" : "EL02",
+      "elemento" : "210602001EL02",
+      "descripcion" : "Diligenciar los documentos de archivo"
+    },
+    {
+      "norma" : 210602001,
+      "id" : "EL03",
+      "elemento" : "210602001EL03",
+      "descripcion" : "Enviar los documentos de archivo"
+    },
+    {
+      "norma" : 210301012,
+      "id" : "EL1",
+      "elemento" : "210301012EL1",
+      "descripcion" : "Establecer los contactos con los corredores de reaseguro y/o reaseguradores, de acuerdo con las políticas de la compañía."
+    },
+    {
+      "norma" : 210301012,
+      "id" : "EL02",
+      "elemento" : "210301012EL02",
+      "descripcion" : "Negociar las condiciones generales y particulares de los contratos de reaseguro según las políticas organizacionales sobre el reaseguro y los requerimientos establecidos."
+    },
+    {
+      "norma" : 210301013,
+      "id" : "EL01",
+      "elemento" : "210301013EL01",
+      "descripcion" : "Comparar los resultados técnico financieros frente a lo presupuestado."
+    },
+    {
+      "norma" : 210301013,
+      "id" : "EL02",
+      "elemento" : "210301013EL02",
+      "descripcion" : "Valorar los perfiles de cartera frente a la capacidad y el resultado del contrato."
+    },
+    {
+      "norma" : 210301014,
+      "id" : "EL01",
+      "elemento" : "210301014EL01",
+      "descripcion" : "Contactar nuevos mercados que contribuyan al logro de las metas organizacionales."
+    },
+    {
+      "norma" : 210301014,
+      "id" : "EL02",
+      "elemento" : "210301014EL02",
+      "descripcion" : "Colocar nuevos productos de acuerdo con las necesidades del mercado objetivo y políticas institucionales"
+    },
+    {
+      "norma" : 210301014,
+      "id" : "EL03",
+      "elemento" : "210301014EL03",
+      "descripcion" : "Adecuar el portafolio de productos al cliente de acuerdo con sus necesidades y con las políticas institucionales."
+    },
+    {
+      "norma" : 210301014,
+      "id" : "EL04",
+      "elemento" : "210301014EL04",
+      "descripcion" : "Establecer y ejecutar un sistema de información y comunicación entre el cliente y la compañía ajustado al plan estratégico."
+    },
+    {
+      "norma" : 220501004,
+      "id" : "EL01",
+      "elemento" : "220501004EL01",
+      "descripcion" : "Diagnosticar la conectividad de los equipos de la red según procedimientos establecidos."
+    },
+    {
+      "norma" : 220501004,
+      "id" : "EL02",
+      "elemento" : "220501004EL02",
+      "descripcion" : "Realizar la limpieza de los componentes de la red según procedimientos establecidos."
+    },
+    {
+      "norma" : 220501005,
+      "id" : "EL01",
+      "elemento" : "220501005EL01",
+      "descripcion" : "Diagnosticar la falla de la conectividad en la red según el manual de procedimiento."
+    },
+    {
+      "norma" : 220501005,
+      "id" : "EL02",
+      "elemento" : "220501005EL02",
+      "descripcion" : "Reparar la falla de conectividad en la red según manual de procedimiento."
+    },
+    {
+      "norma" : 220501006,
+      "id" : "EL01",
+      "elemento" : "220501006EL01",
+      "descripcion" : "Descubrir la información para registrar el estado actual y las necesidades del sistema de información a desarrollar de acuerdo con las particularidades del modelo de negocio."
+    },
+    {
+      "norma" : 220501006,
+      "id" : "EL02",
+      "elemento" : "220501006EL02",
+      "descripcion" : "Identificar la arquitectura tecnológica y las herramientas informáticas del cliente de acuerdo con el sistema de información a desarrollar."
+    },
+    {
+      "norma" : 220501009,
+      "id" : "EL01",
+      "elemento" : "220501009EL01",
+      "descripcion" : "Elaborar términos de referencia técnicos de acuerdo con el informe de las herramientas seleccionadas."
+    },
+    {
+      "norma" : 220501009,
+      "id" : "EL02",
+      "elemento" : "220501009EL02",
+      "descripcion" : "Seleccionar proveedores de acuerdo con los términos de referencia."
+    },
+    {
+      "norma" : 220501009,
+      "id" : "EL03",
+      "elemento" : "220501009EL03",
+      "descripcion" : "Solicitar las herramienta informáticas negociadas para implementarlas."
+    },
+    {
+      "norma" : 220501012,
+      "id" : "EL01",
+      "elemento" : "220501012EL01",
+      "descripcion" : "Instalar cableado estructurado a partir de normas internacionales."
+    },
+    {
+      "norma" : 220501012,
+      "id" : "EL02",
+      "elemento" : "220501012EL02",
+      "descripcion" : "Certificar el cableado estructurado a partir de normas."
+    },
+    {
+      "norma" : 220501012,
+      "id" : "EL03",
+      "elemento" : "220501012EL03",
+      "descripcion" : "Realizar el montaje de la red inalámbrica a partir de normas internacionales."
+    },
+    {
+      "norma" : 220501012,
+      "id" : "EL04",
+      "elemento" : "220501012EL04",
+      "descripcion" : "Disponer los equipos de red de acuerdo a las normas establecidas"
+    },
+    {
+      "norma" : 220501014,
+      "id" : "EL01",
+      "elemento" : "220501014EL01",
+      "descripcion" : "Instalar hardware y software de protección de redes de acuerdo con el diseño y normas establecidas."
+    },
+    {
+      "norma" : 220501014,
+      "id" : "EL02",
+      "elemento" : "220501014EL02",
+      "descripcion" : "Gestionar el hardware y software de seguridad de acuerdo a los requerimientos y necesidades requeridas."
+    },
+    {
+      "norma" : 220501017,
+      "id" : "EL01",
+      "elemento" : "220501017EL01",
+      "descripcion" : "Instalar los equipos activos en la red de datos de acuerdo con el diseño."
+    },
+    {
+      "norma" : 220501017,
+      "id" : "EL02",
+      "elemento" : "220501017EL02",
+      "descripcion" : "Realizar la configuración de los equipos de interconexión de acuerdo con el diseño de la red."
+    },
+    {
+      "norma" : 220501017,
+      "id" : "EL03",
+      "elemento" : "220501017EL03",
+      "descripcion" : "Gestionar los equipos activos y los servicios configurados para garantizar el funcionamiento de la red."
+    },
+    {
+      "norma" : 220501019,
+      "id" : "EL01",
+      "elemento" : "220501019EL01",
+      "descripcion" : "Determinar los activos de información de la organización aplicando metodologías de buenas prácticas."
+    },
+    {
+      "norma" : 220501019,
+      "id" : "EL02",
+      "elemento" : "220501019EL02",
+      "descripcion" : "Analizar las fuentes de amenazas y vulnerabilidades que pueden afectar a cada uno de los activos de información."
+    },
+    {
+      "norma" : 220501019,
+      "id" : "EL03",
+      "elemento" : "220501019EL03",
+      "descripcion" : "Valorar los riesgos asociados a las amenazas y vulnerabilidad determinadas."
+    },
+    {
+      "norma" : 220501020,
+      "id" : "EL01",
+      "elemento" : "220501020EL01",
+      "descripcion" : "Establecer el plan de acciones que permite la implementación de la seguridad de la información."
+    },
+    {
+      "norma" : 220501020,
+      "id" : "EL02",
+      "elemento" : "220501020EL02",
+      "descripcion" : "Elaborar los planes de continuidad tecnológica que cumplan con los objetivos de negocio."
+    },
+    {
+      "norma" : 220501020,
+      "id" : "EL03",
+      "elemento" : "220501020EL03",
+      "descripcion" : "Realizar la divulgación y sensibilización para implementación."
+    },
+    {
+      "norma" : 220501021,
+      "id" : "EL01",
+      "elemento" : "220501021EL01",
+      "descripcion" : "Verificar la aplicación del modelo de seguridad de información utilizando metodologías de mejores practicas."
+    },
+    {
+      "norma" : 220501021,
+      "id" : "EL02",
+      "elemento" : "220501021EL02",
+      "descripcion" : "Controlar el uso de los componentes tecnológicos mediante procedimientos establecidos."
+    },
+    {
+      "norma" : 220501021,
+      "id" : "EL03",
+      "elemento" : "220501021EL03",
+      "descripcion" : "Reconocer la evidencia digital utilizando herramientas de cómputo forense."
+    },
+    {
+      "norma" : 220501023,
+      "id" : "EL01",
+      "elemento" : "220501023EL01",
+      "descripcion" : "Determinar la infraestructura tecnológica para asegurar la efectividad en la organización."
+    },
+    {
+      "norma" : 220501023,
+      "id" : "EL02",
+      "elemento" : "220501023EL02",
+      "descripcion" : "Mantener el cableado estructurado de acuerdo a las normativas existentes."
+    },
+    {
+      "norma" : 220501023,
+      "id" : "EL03",
+      "elemento" : "220501023EL03",
+      "descripcion" : "Gestionar servidores, software y componentes ti para optimizar los recursos y pronosticar inconvenientes."
+    },
+    {
+      "norma" : 220501030,
+      "id" : "EL01",
+      "elemento" : "220501030EL01",
+      "descripcion" : "Organizar los componentes para el ensamble del producto multimedia."
+    },
+    {
+      "norma" : 220501030,
+      "id" : "EL02",
+      "elemento" : "220501030EL02",
+      "descripcion" : "Programar la aplicación de acuerdo con el mapa de navegación y componentes desarrollados."
+    },
+    {
+      "norma" : 220501032,
+      "id" : "EL01",
+      "elemento" : "220501032EL01",
+      "descripcion" : "Bosquejar el modelo funcional de acuerdo con la información recolectada y la metodología seleccionada."
+    },
+    {
+      "norma" : 220501032,
+      "id" : "EL02",
+      "elemento" : "220501032EL02",
+      "descripcion" : "Detallar los requisitos expresados en el modelo funcional de acuerdo con la metodología seleccionada."
+    },
+    {
+      "norma" : 220501033,
+      "id" : "EL01",
+      "elemento" : "220501033EL01",
+      "descripcion" : "Determinar la arquitectura del sistema de acuerdo con el análisis de los requisitos de la solución a construir."
+    },
+    {
+      "norma" : 220501033,
+      "id" : "EL02",
+      "elemento" : "220501033EL02",
+      "descripcion" : "Detallar la estructura técnica de acuerdo con el análisis de los requisitos de la solución a construir."
+    },
+    {
+      "norma" : 220501034,
+      "id" : "EL01",
+      "elemento" : "220501034EL01",
+      "descripcion" : "Instalar la solución de acuerdo con la arquitectura definida."
+    },
+    {
+      "norma" : 220501034,
+      "id" : "EL02",
+      "elemento" : "220501034EL02",
+      "descripcion" : "Elaborar manual de usuario y operación de la solución de acuerdo con estándares establecidos."
+    },
+    {
+      "norma" : 220501034,
+      "id" : "EL03",
+      "elemento" : "220501034EL03",
+      "descripcion" : "Capacitar a los usuarios para operar la solución."
+    },
+    {
+      "norma" : 220501035,
+      "id" : "EL01",
+      "elemento" : "220501035EL01",
+      "descripcion" : "Participar en la implantación de un modelo de calidad para el proceso de desarrollo de software, de acuerdo con las características de la empresa."
+    },
+    {
+      "norma" : 220501035,
+      "id" : "EL02",
+      "elemento" : "220501035EL02",
+      "descripcion" : "Garantizar la integridad de los productos de trabajo, de acuerdo con las prácticas de configuración establecidas en la empresa."
+    },
+    {
+      "norma" : 220501035,
+      "id" : "EL03",
+      "elemento" : "220501035EL03",
+      "descripcion" : "Evaluar la ejecución y desempeño de los procesos de desarrollo de software y la calidad de sus productos asociados, de acuerdo con los procesos, estándares y procedimientos establecidos en la empresa"
+    },
+    {
+      "norma" : 220501038,
+      "id" : "EL01",
+      "elemento" : "220501038EL01",
+      "descripcion" : "Construir materiales para los diferentes objetos en la escena 3d de acuerdo con la estética a lograr."
+    },
+    {
+      "norma" : 220501038,
+      "id" : "EL02",
+      "elemento" : "220501038EL02",
+      "descripcion" : "Componer los sistemas de iluminación para la escena 3d de acuerdo con la estética a lograr."
+    },
+    {
+      "norma" : 220501040,
+      "id" : "EL01",
+      "elemento" : "220501040EL01",
+      "descripcion" : "Identificar la plataforma de desarrollo de acuerdo a las características incorporadas en los dispositivos móviles y a los estándares existentes."
+    },
+    {
+      "norma" : 220501040,
+      "id" : "EL02",
+      "elemento" : "220501040EL02",
+      "descripcion" : "Establecer los componentes de desarrollo disponibles en la plataforma y su funcionamiento de acuerdo a las necesidades del usuario y criterios de usabilidad."
+    },
+    {
+      "norma" : 220501041,
+      "id" : "EL01",
+      "elemento" : "220501041EL01",
+      "descripcion" : "Evaluar las características técnicas de los dispositivos móviles de acuerdo con las especificaciones de los fabricantes."
+    },
+    {
+      "norma" : 220501041,
+      "id" : "EL02",
+      "elemento" : "220501041EL02",
+      "descripcion" : "Definir los dispositivos móviles que cumplen con los requerimientos del proyecto."
+    },
+    {
+      "norma" : 220501043,
+      "id" : "EL01",
+      "elemento" : "220501043EL01",
+      "descripcion" : "Proveer servicios de software y tecnologias de la informacion de acuerdo con requerimientos del cliente y estandares del sector "
+    },
+    {
+      "norma" : 220501046,
+      "id" : "EL01",
+      "elemento" : "220501046EL01",
+      "descripcion" : "Manejar las funcionalidades de las herramientas informaticas emplear herramientas informaticas"
+    },
+    {
+      "norma" : 220501047,
+      "id" : "EL01",
+      "elemento" : "220501047EL01",
+      "descripcion" : "Las acciones fundamentales que se desarrollan para cumplir con la funcion, realizar la configuracion de los componentes del sitio web gestionar la ooperacion del sitio web"
+    },
+    {
+      "norma" : 220501048,
+      "id" : "EL01",
+      "elemento" : "220501048EL01",
+      "descripcion" : "Las acciones fundamentales quese desarrollan para cumplir con la Publicar el sitio web proyectar el sitio web diseñar los componentes del sitio web"
+    },
+    {
+      "norma" : 220501049,
+      "id" : "EL01",
+      "elemento" : "220501049EL01",
+      "descripcion" : "Las acciones fundamentales quese desarrollan para cumplir con la Publicar el sitio web proyectar el sitio web diseñar los componentes del sitio web"
+    },
+    {
+      "norma" : 220501051,
+      "id" : "EL01",
+      "elemento" : "220501051EL01",
+      "descripcion" : "Preparar la información cartográfica de acuerdo a normas y metodología existentes."
+    },
+    {
+      "norma" : 220501051,
+      "id" : "EL02",
+      "elemento" : "220501051EL02",
+      "descripcion" : "Digitalizar la cartografía de acuerdo a los estándares de calidad de información geográfica."
+    },
+    {
+      "norma" : 220501052,
+      "id" : "EL01",
+      "elemento" : "220501052EL01",
+      "descripcion" : "Organizar la información en el formato específico teniendo en cuenta las exigencias requeridas para la implementación de un SIG."
+    },
+    {
+      "norma" : 220501052,
+      "id" : "EL02",
+      "elemento" : "220501052EL02",
+      "descripcion" : "Elaborar mapas de acuerdo a estándares y normas de calidad existentes."
+    },
+    {
+      "norma" : 220501053,
+      "id" : "EL01",
+      "elemento" : "220501053EL01",
+      "descripcion" : "Las acciones fundamentales que se desarrollan para cumplir con la funciones modelar base de datos implementar modelo fisico "
+    },
+    {
+      "norma" : 220501054,
+      "id" : "EL01",
+      "elemento" : "220501054EL01",
+      "descripcion" : "Recoger información puntual con GPS y otros dispositivos (palm, celular, ADSL) de acuerdo metodología de manejo."
+    },
+    {
+      "norma" : 220501054,
+      "id" : "EL02",
+      "elemento" : "220501054EL02",
+      "descripcion" : "Procesar la información tomada de acuerdo al tipo de formato final de trabajo."
+    },
+    {
+      "norma" : 220501055,
+      "id" : "EL01",
+      "elemento" : "220501055EL01",
+      "descripcion" : "Procesar imágenes de sensores remotos de acuerdo a la metodología de procesamiento de imágenes (PDI)"
+    },
+    {
+      "norma" : 220501055,
+      "id" : "EL02",
+      "elemento" : "220501055EL02",
+      "descripcion" : "Generar cartografía a partir de sensores remotos de acuerdo a la metodología específica."
+    },
+    {
+      "norma" : 220501056,
+      "id" : "EL01",
+      "elemento" : "220501056EL01",
+      "descripcion" : "Manipular la información espacial en forma rápida y eficiente de acuerdo a la gestión de herramienta de manejo SIG."
+    },
+    {
+      "norma" : 220501056,
+      "id" : "EL02",
+      "elemento" : "220501056EL02",
+      "descripcion" : "Realizar funciones de análisis y modelamiento de la información de acuerdo a requerimientos del usuario."
+    },
+    {
+      "norma" : 220501057,
+      "id" : "EL01",
+      "elemento" : "220501057EL01",
+      "descripcion" : "Preparar las bases de geodatos para publicar de acuerdo a los lenguajes existentes."
+    },
+    {
+      "norma" : 220501057,
+      "id" : "EL02",
+      "elemento" : "220501057EL02",
+      "descripcion" : "Crear y desarrollar el servidor de mapas y de una aplicación cliente de acuerdo a cada caso específico."
+    },
+    {
+      "norma" : 220501058,
+      "id" : "EL01",
+      "elemento" : "220501058EL01",
+      "descripcion" : "Disponer el equipo de trabajo de calidad requeridos para el proyecto de desarrollo de software."
+    },
+    {
+      "norma" : 220501058,
+      "id" : "EL02",
+      "elemento" : "220501058EL02",
+      "descripcion" : "Gestionar el equipo de trabajo para lograr un proyecto de software seguro y confiable."
+    },
+    {
+      "norma" : 220501059,
+      "id" : "EL01",
+      "elemento" : "220501059EL01",
+      "descripcion" : "Instalar equipos de comunicación de VOIP requeridos para la transmisión e intercambio de información, de acuerdo a la topología establecida en el diseño."
+    },
+    {
+      "norma" : 220501059,
+      "id" : "EL02",
+      "elemento" : "220501059EL02",
+      "descripcion" : "Configurar equipos para establecer tráfico en la red de acuerdo al diseño y a normas técnicas."
+    },
+    {
+      "norma" : 220501061,
+      "id" : "EL01",
+      "elemento" : "220501061EL01",
+      "descripcion" : "Iniciar el proyecto informático de acuerdo con las necesidades del cliente."
+    },
+    {
+      "norma" : 220501061,
+      "id" : "EL02",
+      "elemento" : "220501061EL02",
+      "descripcion" : "Planear el proyecto informático de acuerdo con la información del acta de inicio."
+    },
+    {
+      "norma" : 220501061,
+      "id" : "EL03",
+      "elemento" : "220501061EL03",
+      "descripcion" : "Ejecutar el proyecto informático de acuerdo con el alcance del proyecto."
+    },
+    {
+      "norma" : 220501061,
+      "id" : "EL04",
+      "elemento" : "220501061EL04",
+      "descripcion" : "Controlar el proyecto informático de acuerdo con el plan general."
+    },
+    {
+      "norma" : 220501061,
+      "id" : "EL05",
+      "elemento" : "220501061EL05",
+      "descripcion" : "Cerrar el proyecto informático de acuerdo con el plan general."
+    },
+    {
+      "norma" : 220501062,
+      "id" : "EL01",
+      "elemento" : "220501062EL01",
+      "descripcion" : "Planear la construcción de software de acuerdo con los requisitos del producto y las características de desempeño personal."
+    },
+    {
+      "norma" : 220501062,
+      "id" : "EL02",
+      "elemento" : "220501062EL02",
+      "descripcion" : "Hacer seguimiento al proceso personal de construcción de software, de acuerdo con prácticas internacionales."
+    },
+    {
+      "norma" : 220501062,
+      "id" : "EL03",
+      "elemento" : "220501062EL03",
+      "descripcion" : "Evaluar la ejecución del proceso personal de construcción de acuerdo con el plan establecido para mejorar la calidad y el desempeño."
+    },
+    {
+      "norma" : 220501063,
+      "id" : "EL01",
+      "elemento" : "220501063EL01",
+      "descripcion" : "Configurar el sistema manejador de base de datos de acuerdo con los parámetros y requerimientos de la empresa."
+    },
+    {
+      "norma" : 220501063,
+      "id" : "EL02",
+      "elemento" : "220501063EL02",
+      "descripcion" : "Mantener la base de datos de acuerdo con los niveles de servicio definidos por la empresa."
+    },
+    {
+      "norma" : 220501063,
+      "id" : "EL03",
+      "elemento" : "220501063EL03",
+      "descripcion" : "Implementar el esquema de seguridad de la base de datos de acuerdo con estándares del sector y de la empresa."
+    },
+    {
+      "norma" : 220501064,
+      "id" : "EL01",
+      "elemento" : "220501064EL01",
+      "descripcion" : "Procesar los datos biológicos y/o moleculares, de acuerdo con el objeto de la investigación."
+    },
+    {
+      "norma" : 220501064,
+      "id" : "EL02",
+      "elemento" : "220501064EL02",
+      "descripcion" : "Caracterizar la información obtenida, de acuerdo con los requerimientos de la investigación."
+    },
+    {
+      "norma" : 220501065,
+      "id" : "EL01",
+      "elemento" : "220501065EL01",
+      "descripcion" : "Determinar los conjuntos de secuencias y/o atributos, para el entrenamiento y prueba del modelado, de acuerdo con el objeto de la investigación."
+    },
+    {
+      "norma" : 220501065,
+      "id" : "EL02",
+      "elemento" : "220501065EL02",
+      "descripcion" : "Modelar la información del conjunto de secuencias con base en técnicas de minería de datos y requerimientos de la investigación."
+    },
+    {
+      "norma" : 220501066,
+      "id" : "EL01",
+      "elemento" : "220501066EL01",
+      "descripcion" : "Lograr el acuerdo sobre el alcance de la solución tic con base en mejores prácticas."
+    },
+    {
+      "norma" : 220501066,
+      "id" : "EL02",
+      "elemento" : "220501066EL02",
+      "descripcion" : "Ajustar el documento de requerimientos de acuerdo con lo conciliado"
+    },
+    {
+      "norma" : 220501076,
+      "id" : "EL01",
+      "elemento" : "220501076EL01",
+      "descripcion" : "Definir las políticas, normas, estándares y procedimientos de seguridad de la información de acuerdo con el objeto de negocio."
+    },
+    {
+      "norma" : 220501076,
+      "id" : "EL02",
+      "elemento" : "220501076EL02",
+      "descripcion" : "Establecer la arquitectura de seguridad de la información con base en el diagnóstico definido."
+    },
+    {
+      "norma" : 220501077,
+      "id" : "EL01",
+      "elemento" : "220501077EL01",
+      "descripcion" : "Analizar los requerimientos de la red de datos de acuerdo con las necesidades del cliente y meta de negocio."
+    },
+    {
+      "norma" : 220501077,
+      "id" : "EL02",
+      "elemento" : "220501077EL02",
+      "descripcion" : "Determinar el diseño de la red de datos de acuerdo con los requerimientos del proyecto."
+    },
+    {
+      "norma" : 220501078,
+      "id" : "EL01",
+      "elemento" : "220501078EL01",
+      "descripcion" : "Programar las fases de trabajo del proyecto multimedia cumpliendo con los requerimientos del proyecto."
+    },
+    {
+      "norma" : 220501078,
+      "id" : "EL02",
+      "elemento" : "220501078EL02",
+      "descripcion" : "Elaborar la propuesta administrativa y financiera tomando en cuenta los recursos, tiempo y presupuesto."
+    },
+    {
+      "norma" : 220501080,
+      "id" : "EL01",
+      "elemento" : "220501080EL01",
+      "descripcion" : "Identificar los requerimientos del centro de datos con base en las necesidades del cliente y objeto de negocio."
+    },
+    {
+      "norma" : 220501080,
+      "id" : "EL02",
+      "elemento" : "220501080EL02",
+      "descripcion" : "Definir los componentes y características del centro de datos de acuerdo con el análisis de información."
+    },
+    {
+      "norma" : 220501080,
+      "id" : "EL03",
+      "elemento" : "220501080EL03",
+      "descripcion" : "Elaborar el plan de actividades para la implementación del centro de datos."
+    },
+    {
+      "norma" : 220501080,
+      "id" : "EL04",
+      "elemento" : "220501080EL04",
+      "descripcion" : "Elaborar la propuesta administrativa y financiera tomando en cuenta los recursos, tiempo y presupuesto."
+    },
+    {
+      "norma" : 220501081,
+      "id" : "EL01",
+      "elemento" : "220501081EL01",
+      "descripcion" : "Instalar los sistemas que componen el centro de datos acorde con el diseño y normas vigentes."
+    },
+    {
+      "norma" : 220501081,
+      "id" : "EL02",
+      "elemento" : "220501081EL02",
+      "descripcion" : "Configurar los equipos y servicios para garantizar el funcionamiento del centro de datos."
+    },
+    {
+      "norma" : 220501081,
+      "id" : "EL03",
+      "elemento" : "220501081EL03",
+      "descripcion" : "Realizar la puesta en marcha del centro de datos de acuerdo con los procedimientos."
+    },
+    {
+      "norma" : 220501082,
+      "id" : "EL01",
+      "elemento" : "220501082EL01",
+      "descripcion" : "Monitorear la operación y funcionamiento del centro de datos utilizando herramientas tecnológicas para garantizar la continuidad del servicio."
+    },
+    {
+      "norma" : 220501082,
+      "id" : "EL02",
+      "elemento" : "220501082EL02",
+      "descripcion" : "Monitorear la infraestructura del centro de datos para garantizar la continuidad del servicio y la seguridad en de las instalaciones y equipos."
+    },
+    {
+      "norma" : 220501082,
+      "id" : "EL03",
+      "elemento" : "220501082EL03",
+      "descripcion" : "Manejar las ventanas de mantenimiento del centro de datos para garantizar la continuidad del servicio."
+    },
+    {
+      "norma" : 220501082,
+      "id" : "EL04",
+      "elemento" : "220501082EL04",
+      "descripcion" : "Coordinar la relación con el cliente según procedimientos y acuerdos de servicio."
+    },
+    {
+      "norma" : 220501082,
+      "id" : "EL05",
+      "elemento" : "220501082EL05",
+      "descripcion" : "Elaborar reportes de actividades y sucesos dentro de la operación del centro de datos."
+    },
+    {
+      "norma" : 280102034,
+      "id" : "EL01",
+      "elemento" : "280102034EL01",
+      "descripcion" : "Caracterizar los sistemas de comunicaciones electrónicas de acuerdo con leyes, teorías y principios de la comunicación electrónica."
+    },
+    {
+      "norma" : 280102034,
+      "id" : "EL02",
+      "elemento" : "280102034EL02",
+      "descripcion" : "Medir parámetros para determinar el funcionamiento de las comunicaciones electrónicas de acuerdo con las especificaciones técnicas."
+    },
+    {
+      "norma" : 280102047,
+      "id" : "EL01",
+      "elemento" : "280102047EL01",
+      "descripcion" : "Establecer las especificaciones técnicas y cantidades de los bienes y servicios a contratar."
+    },
+    {
+      "norma" : 280102047,
+      "id" : "EL02",
+      "elemento" : "280102047EL02",
+      "descripcion" : "Certificar la disponibilidad presupuestal para la contratación según los requerimientos establecidos."
+    },
+    {
+      "norma" : 280102047,
+      "id" : "EL03",
+      "elemento" : "280102047EL03",
+      "descripcion" : "Determinar las razones de conveniencia y oportunidad de la contratación considerando factores tácticos y estratégicos de la empresa."
+    },
+    {
+      "norma" : 280102049,
+      "id" : "EL01",
+      "elemento" : "280102049EL01",
+      "descripcion" : "Solicitar ofertas de bienes y servicios cumpliendo normas y procedimientos de la empresa."
+    },
+    {
+      "norma" : 280102049,
+      "id" : "EL02",
+      "elemento" : "280102049EL02",
+      "descripcion" : "Formalizar ofertas de bienes y servicios de acuerdo con la estrategia de negociación y los factores de ponderación."
+    },
+    {
+      "norma" : 280102049,
+      "id" : "EL03",
+      "elemento" : "280102049EL03",
+      "descripcion" : "Verificar la documentación del proyecto teniendo en cuenta requerimientos contractuales, plan establecido y protocolos."
+    },
+    {
+      "norma" : 280102061,
+      "id" : "EL01",
+      "elemento" : "280102061EL01",
+      "descripcion" : "Señalizar la zona de trabajo de acuerdo con normas y procedimientos técnicos establecidos."
+    },
+    {
+      "norma" : 280102061,
+      "id" : "EL02",
+      "elemento" : "280102061EL02",
+      "descripcion" : "Implementar accesorios y componentes de acuerdo con procedimientos establecidos por la empresa."
+    },
+    {
+      "norma" : 280102061,
+      "id" : "EL03",
+      "elemento" : "280102061EL03",
+      "descripcion" : "Tender cable de fibra óptica, coaxial y cobre cumpliendo normas técnicas establecidas por la empresa."
+    },
+    {
+      "norma" : 280102061,
+      "id" : "EL04",
+      "elemento" : "280102061EL04",
+      "descripcion" : "Instalar y conectar elementos activos y pasivos cumpliendo normas y procedimientos establecidos por la empresa."
+    },
+    {
+      "norma" : 280102061,
+      "id" : "EL05",
+      "elemento" : "280102061EL05",
+      "descripcion" : "Alimentar y calibrar la red de telecomunicaciones de acuerdo con procedimientos y normas técnicas."
+    },
+    {
+      "norma" : 280102061,
+      "id" : "EL06",
+      "elemento" : "280102061EL06",
+      "descripcion" : "Instalar usuarios cumpliendo normas y procedimientos técnicos."
+    },
+    {
+      "norma" : 280102062,
+      "id" : "EL01",
+      "elemento" : "280102062EL01",
+      "descripcion" : "Poner en funcionamiento equipos y componentes para la prestación del servicio de telecomunicaciones."
+    },
+    {
+      "norma" : 280102062,
+      "id" : "EL02",
+      "elemento" : "280102062EL02",
+      "descripcion" : " Probar el funcionamiento del servicio de telecomunicaciones de acuerdo con normas internacionales y procedimientos del fabricante y la empresa."
+    },
+    {
+      "norma" : 280102062,
+      "id" : "EL03",
+      "elemento" : "280102062EL03",
+      "descripcion" : "Proteger las herramientas y elementos de red de acuerdo con normas, planos y especificaciones."
+    },
+    {
+      "norma" : 280102063,
+      "id" : "EL01",
+      "elemento" : "280102063EL01",
+      "descripcion" : "Supervisar las actividades de mantenimiento de las redes de telecomunicaciones de acuerdo con el diagnostico identificado y las necesidades de la empresa."
+    },
+    {
+      "norma" : 280102063,
+      "id" : "EL02",
+      "elemento" : "280102063EL02",
+      "descripcion" : "Generar informes en formatos establecidos por la empresa."
+    },
+    {
+      "norma" : 280102068,
+      "id" : "EL01",
+      "elemento" : "280102068EL01",
+      "descripcion" : "Determinar la factibilidad técnica de la instalación del servicio de telecomunicaciones, de acuerdo con parámetros técnicos y procedimientos establecidos por la empresa"
+    },
+    {
+      "norma" : 280102068,
+      "id" : "EL02",
+      "elemento" : "280102068EL02",
+      "descripcion" : "Informar resultados observados en campo con base en formatos establecidos por la empresa."
+    },
+    {
+      "norma" : 280102068,
+      "id" : "EL03",
+      "elemento" : "280102068EL03",
+      "descripcion" : "Localizar en el sitio de trabajo los equipos, componentes y accesorios para la instalación y conexión del servicio de telecomunicaciones, cumpliendo normas técnicas y procedimientos de la empresa."
+    },
+    {
+      "norma" : 280102068,
+      "id" : "EL04",
+      "elemento" : "280102068EL04",
+      "descripcion" : "Elaborar órdenes para instalar el servicio de telecomunicaciones siguiendo los procedimientos de la empresa."
+    },
+    {
+      "norma" : 280102089,
+      "id" : "EL01",
+      "elemento" : "280102089EL01",
+      "descripcion" : "Identificar la ruta del tendido de la red de acuerdo con la infraestructura del inmueble."
+    },
+    {
+      "norma" : 280102089,
+      "id" : "EL02",
+      "elemento" : "280102089EL02",
+      "descripcion" : "Instalar el cableado de acuerdo con la infraestructura del inmueble y normas técnicas establecidas."
+    },
+    {
+      "norma" : 280102091,
+      "id" : "EL01",
+      "elemento" : "280102091EL01",
+      "descripcion" : "Revisar disponibilidad en sitio, de los equipos y materiales exigidos en la instalación de acuerdo con el diseño y el plan de trabajo establecido."
+    },
+    {
+      "norma" : 280102091,
+      "id" : "EL02",
+      "elemento" : "280102091EL02",
+      "descripcion" : "Montar los equipos y accesorios de acuerdo con planos de diseño, manuales del fabricante, materiales y normas técnicas establecidas por la empresa."
+    },
+    {
+      "norma" : 280102093,
+      "id" : "EL01",
+      "elemento" : "280102093EL01",
+      "descripcion" : "Cargar los datos de configuración de la red existente de acuerdo con la planeación general de la red."
+    },
+    {
+      "norma" : 280102093,
+      "id" : "EL02",
+      "elemento" : "280102093EL02",
+      "descripcion" : "Realizar pruebas de integración y sincronización con la red existente según protocolos establecidos por la empresa."
+    },
+    {
+      "norma" : 280102095,
+      "id" : "EL01",
+      "elemento" : "280102095EL01",
+      "descripcion" : "Proveer servicios de telecomunicaciones con estandares internacionales de calidad, normatividad vigente, necesidades del mercado estrategias de competividad de laorganizacion "
+    },
+    {
+      "norma" : 280102103,
+      "id" : "EL01",
+      "elemento" : "280102103EL01",
+      "descripcion" : "Proveer servicios de telecomunicaciones de acuerdo con estandares internacionaled  y estrategias de competitividad"
+    },
+    {
+      "norma" : 280102104,
+      "id" : "EL01",
+      "elemento" : "280102104EL01",
+      "descripcion" : "Proveer servicios de telecomunicaciones de acuerdo con estandares internacionaled  y estrategiasd de competitividad  preparar cables unir hilos armar cubiertas"
+    },
+    {
+      "norma" : 280102106,
+      "id" : "EL01",
+      "elemento" : "280102106EL01",
+      "descripcion" : "Proveer servicios de telecomunicaciones de acuerdo con estandares internacionaled  y estrategias de competitividad diagnosticar enlace corregir fallas"
+    },
+    {
+      "norma" : 280102107,
+      "id" : "EL01",
+      "elemento" : "280102107EL01",
+      "descripcion" : "Proveer servicios de telecomunicaciones deacuerdo con estándares internacionales y estrategias de competitividad"
+    },
+    {
+      "norma" : 280102115,
+      "id" : "EL01",
+      "elemento" : "280102115EL01",
+      "descripcion" : "Las acciones fundamentales que se desarrollan para cumplir con la funcion"
+    },
+    {
+      "norma" : 280102117,
+      "id" : "EL01",
+      "elemento" : "280102117EL01",
+      "descripcion" : "Las acciones fundamentales que se desarrollan para cumplir con la funcion comprobar parametros disponer equipos "
+    },
+    {
+      "norma" : 280102122,
+      "id" : "EL01",
+      "elemento" : "280102122EL01",
+      "descripcion" : "Actividades Clave las acciones fundamentales que se desarrolan para cumplir con la funcion"
+    },
+    {
+      "norma" : 280102125,
+      "id" : "EL01",
+      "elemento" : "280102125EL01",
+      "descripcion" : "Las acciones fundamentales que se desarrollan para cumplir con la funcion  estender cable provicionar equipos permitir servicios"
+    },
+    {
+      "norma" : 280102126,
+      "id" : "EL01",
+      "elemento" : "280102126EL01",
+      "descripcion" : "Las acciones fundamentales que se desarrollan para cumplir con la funcion dignosticar servicio restablecer servicio"
+    },
+    {
+      "norma" : 210201007,
+      "id" : "EL01",
+      "elemento" : "210201007EL01",
+      "descripcion" : "Liquidar aportes de seguridad social y parafiscales de acuerdo con normas legales vigentes y procedimientos establecidos por la organización"
+    },
+    {
+      "norma" : 210201007,
+      "id" : "EL02",
+      "elemento" : "210201007EL02",
+      "descripcion" : "Liquidar pagos a terceros de acuerdo con las normas legales vigentes y los procedimientos establecidos por la organización."
+    },
+    {
+      "norma" : 210201016,
+      "id" : "EL01",
+      "elemento" : "210201016EL01",
+      "descripcion" : "Operar sistemas de registro, producción, almacenamiento y transmisión de información, de acuerdo con procedimientos y normas vigentes."
+    },
+    {
+      "norma" : 210201016,
+      "id" : "EL02",
+      "elemento" : "210201016EL02",
+      "descripcion" : "Presentar informes de actividades realizadas, de acuerdo con el proceso de gestión del talento humano desarrollado."
+    },
+    {
+      "norma" : 210201017,
+      "id" : "EL01",
+      "elemento" : "210201017EL01",
+      "descripcion" : "Identificar cambios en los procesos y procedimientos de la organización, con base en la observación y documentación de los mismos."
+    },
+    {
+      "norma" : 210201017,
+      "id" : "EL02",
+      "elemento" : "210201017EL02",
+      "descripcion" : "Describir procesos y procedimientos de gestión humana de acuerdo con la metodología establecida en la organización"
+    },
+    {
+      "norma" : 210201017,
+      "id" : "EL03",
+      "elemento" : "210201017EL03",
+      "descripcion" : "Elaborar instructivos y formatos de acuerdo con las normas establecidas por la organización."
+    },
+    {
+      "norma" : 210201038,
+      "id" : "EL01",
+      "elemento" : "210201038EL01",
+      "descripcion" : "Organizar la información del talento humano de acuerdo con procedimientos organizacionales."
+    },
+    {
+      "norma" : 210201038,
+      "id" : "EL02",
+      "elemento" : "210201038EL02",
+      "descripcion" : "Evaluar tendencias de la información del talento humano teniendo en cuenta resultados de la actualización."
+    },
+    {
+      "norma" : 210201039,
+      "id" : "EL01",
+      "elemento" : "210201039EL01",
+      "descripcion" : "Orientar al personal en el desarrollo de las funciones según el área y procesos organizacionales."
+    },
+    {
+      "norma" : 210201039,
+      "id" : "EL02",
+      "elemento" : "210201039EL02",
+      "descripcion" : "Realizar el seguimiento al desarrollo de las actividades de acuerdo con los procesos y metas establecidas."
+    },
+    {
+      "norma" : 210201040,
+      "id" : "EL01",
+      "elemento" : "210201040EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Organizar perfiles de cargos, describir las competencias del cargo, socializar el manual"
+    },
+    {
+      "norma" : 210201041,
+      "id" : "EL01",
+      "elemento" : "210201041EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Diagnosticar perfiles de cargos Describir perfiles de cargos"
+    },
+    {
+      "norma" : 210201042,
+      "id" : "EL01",
+      "elemento" : "210201042EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Determinar necesidades, Programar actividades"
+    },
+    {
+      "norma" : 210201043,
+      "id" : "EL01",
+      "elemento" : "210201043EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Plamear actividades, Organizar el sistema de gestión, verificar el cumplimiento de las actividades. "
+    },
+    {
+      "norma" : 210201044,
+      "id" : "EL01",
+      "elemento" : "210201044EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Preparar instrumentos, Garantizar validación"
+    },
+    {
+      "norma" : 210201045,
+      "id" : "EL01",
+      "elemento" : "210201045EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Preparar el proceso, Aplicar la evaluación"
+    },
+    {
+      "norma" : 210201046,
+      "id" : "EL01",
+      "elemento" : "210201046EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Determinar actividades del programa, Orientar actividades de bienestar laboral"
+    },
+    {
+      "norma" : 210201047,
+      "id" : "EL01",
+      "elemento" : "210201047EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Preparar actividades de inducción, Orientar actividades de inducción"
+    },
+    {
+      "norma" : 210201048,
+      "id" : "EL01",
+      "elemento" : "210201048EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Reclutar candidatos, Evaluar candidatos"
+    },
+    {
+      "norma" : 210201049,
+      "id" : "EL01",
+      "elemento" : "210201049EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Explorar mercado salarial, Proyectar estructura salarial"
+    },
+    {
+      "norma" : 210201050,
+      "id" : "EL01",
+      "elemento" : "210201050EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Procesar nómina, Reportar pagos"
+    },
+    {
+      "norma" : 210201051,
+      "id" : "EL01",
+      "elemento" : "210201051EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Consolidar documentación, Tramitar proceso contractual"
+    },
+    {
+      "norma" : 240201047,
+      "id" : "EL01",
+      "elemento" : "240201047EL01",
+      "descripcion" : "Alistar el proceso de evaluación teniendo en cuenta la norma de competencial laboral correspondiente."
+    },
+    {
+      "norma" : 240201047,
+      "id" : "EL02",
+      "elemento" : "240201047EL02",
+      "descripcion" : "Valorar evidencias presentadas y confrontadas según la norma de competencia laboral."
+    },
+    {
+      "norma" : 240201053,
+      "id" : "EL01",
+      "elemento" : "240201053EL01",
+      "descripcion" : "Proyectar el talento humano y los recursos educativos de acuerdo con el diseño curricular institucional establecido."
+    },
+    {
+      "norma" : 240201053,
+      "id" : "EL02",
+      "elemento" : "240201053EL02",
+      "descripcion" : "Controlar el talento humano y los recursos educativos según su pertinencia en el desarrollo del programa de formación."
+    },
+    {
+      "norma" : 240201054,
+      "id" : "EL01",
+      "elemento" : "240201054EL01",
+      "descripcion" : "Programar las actividades, los recursos y la asignación del personal de acuerdo con el plan operativo establecido."
+    },
+    {
+      "norma" : 240201054,
+      "id" : "EL02",
+      "elemento" : "240201054EL02",
+      "descripcion" : "Asesorar al personal docente, responsable de los procesos educativos según lo establecido en los planes operativos."
+    },
+    {
+      "norma" : 240201065,
+      "id" : "EL01",
+      "elemento" : "240201065EL01",
+      "descripcion" : "Actividades ClavesLas acciones fundamentales que se desarrollan para cumplir con la función son: Planear los recursos educativos, Controlar los recursos educativos"
+    },
+    {
+      "norma" : 280101001,
+      "id" : "EL01",
+      "elemento" : "280101001EL01",
+      "descripcion" : "Requerir elementos, materiales y equipos según diseño y orden de trabajo (g02.03.01.01)"
+    },
+    {
+      "norma" : 280101001,
+      "id" : "EL02",
+      "elemento" : "280101001EL02",
+      "descripcion" : "Instalar los componentes según las especificaciones de diseño, normas y procedimientos establecidos (c 02 - 02)"
+    },
+    {
+      "norma" : 280101002,
+      "id" : "EL01",
+      "elemento" : "280101002EL01",
+      "descripcion" : "Cumplir los parámetros establecidos para la instalación de sistemas de iluminación."
+    },
+    {
+      "norma" : 280101002,
+      "id" : "EL02",
+      "elemento" : "280101002EL02",
+      "descripcion" : "Realizar informes técnicos reportando comentarios y resultados de las observaciones de campo"
+    },
+    {
+      "norma" : 280101004,
+      "id" : "EL01",
+      "elemento" : "280101004EL01",
+      "descripcion" : "Requerir materiales, equipos y herramientas necesarios según orden de trabajo (g.02.03.01)"
+    },
+    {
+      "norma" : 280101004,
+      "id" : "EL02",
+      "elemento" : "280101004EL02",
+      "descripcion" : "Embalar equipos, materiales y herramientas, según parámetros definidos para su almacenamiento y transporte (g.02.03.03.01)"
+    },
+    {
+      "norma" : 280101004,
+      "id" : "EL03",
+      "elemento" : "280101004EL03",
+      "descripcion" : "Preparar los elementos logísticos requeridos según la construcción de la instalación (g.02.03.05.01)"
+    },
+    {
+      "norma" : 280101005,
+      "id" : "EL01",
+      "elemento" : "280101005EL01",
+      "descripcion" : "Instalar componentes cumpliendo especificaciones de diseño, normas y procedimientos establecidos (c.02.02.03)."
+    },
+    {
+      "norma" : 280101005,
+      "id" : "EL02",
+      "elemento" : "280101005EL02",
+      "descripcion" : "Realizar informes técnicos reportando comentarios y resultados de las observaciones de campo (c.05.06)."
+    },
+    {
+      "norma" : 280101006,
+      "id" : "EL01",
+      "elemento" : "280101006EL01",
+      "descripcion" : "Realizar el análisis de la factibilidad de la instalación de los equipos y componentes cumpliendo parámetros técnicos de diseño. (c.1.2.1)"
+    },
+    {
+      "norma" : 280101006,
+      "id" : "EL02",
+      "elemento" : "280101006EL02",
+      "descripcion" : "Instalar los equipos y componentes cumpliendo las especificaciones de diseño, normas y procedimientos establecidos. (c.2.2)"
+    },
+    {
+      "norma" : 280101006,
+      "id" : "EL03",
+      "elemento" : "280101006EL03",
+      "descripcion" : "Realizar informes técnicos reportando comentarios y resultados sus observaciones de campo (c.1.2.2)"
+    },
+    {
+      "norma" : 280101007,
+      "id" : "EL01",
+      "elemento" : "280101007EL01",
+      "descripcion" : "Verificar el cumplimiento de los parámetros establecidos para la construcción e instalación de acuerdo con los documentos técnicos y contractuales y los parámetros establecidos por la empresa (c 3 1)"
+    },
+    {
+      "norma" : 280101007,
+      "id" : "EL02",
+      "elemento" : "280101007EL02",
+      "descripcion" : "Construir estructuras de soporte cumpliendo las especificaciones del diseño, normas y procedimientos (c 4 1)"
+    },
+    {
+      "norma" : 280101007,
+      "id" : "EL03",
+      "elemento" : "280101007EL03",
+      "descripcion" : "Conexionar los componentes del sistema de acuerdo con diseños y procedimientos establecidos. (c 2 3)"
+    },
+    {
+      "norma" : 280101008,
+      "id" : "EL01",
+      "elemento" : "280101008EL01",
+      "descripcion" : "Calcular parámetros de circuitos eléctricos, de acuerdo con los conceptos, principios y modelos aplicados (b 01.02.06)."
+    },
+    {
+      "norma" : 280101008,
+      "id" : "EL02",
+      "elemento" : "280101008EL02",
+      "descripcion" : "Medir parámetros de circuitos eléctricos aplicando unidades e instrumentos de medida (b 01.02.05)."
+    },
+    {
+      "norma" : 280101009,
+      "id" : "EL01",
+      "elemento" : "280101009EL01",
+      "descripcion" : "Verificar parámetros de sistemas polifásicos, de acuerdo con normas y procedimientos. (b01.02.05.03)"
+    },
+    {
+      "norma" : 280101009,
+      "id" : "EL02",
+      "elemento" : "280101009EL02",
+      "descripcion" : "Conectar los equipos y componentes del sistema, de acuerdo con los diseños protocolos y procedimientos establecidos (b01.02.06)"
+    },
+    {
+      "norma" : 280101010,
+      "id" : "EL01",
+      "elemento" : "280101010EL01",
+      "descripcion" : "Conectar los equipos y componentes del sistema de acuerdo con los diseños, protocolos y procedimientos establecidos (c,02.03)."
+    },
+    {
+      "norma" : 280101010,
+      "id" : "EL02",
+      "elemento" : "280101010EL02",
+      "descripcion" : "Determinar la puesta en marcha del circuito eléctrico y sus componentes, de acuerdo con las especificaciones técnicas establecidas(c.03.03.01"
+    },
+    {
+      "norma" : 280101021,
+      "id" : "EL01",
+      "elemento" : "280101021EL01",
+      "descripcion" : "Requerir materiales, equipos y herramientas necesarios para la ejecución de ordenes de trabajo"
+    },
+    {
+      "norma" : 280101021,
+      "id" : "EL02",
+      "elemento" : "280101021EL02",
+      "descripcion" : "Verificar especificaciones de materiales, equipos y herramientas, definidos en la solicitud."
+    },
+    {
+      "norma" : 280101034,
+      "id" : "EL01",
+      "elemento" : "280101034EL01",
+      "descripcion" : "Favorecer un clima organizacional de acuerdo con las normas establecidas por la empresa."
+    },
+    {
+      "norma" : 280101034,
+      "id" : "EL02",
+      "elemento" : "280101034EL02",
+      "descripcion" : "Evaluar el desempeño individual para definir planes de mejoramiento"
+    },
+    {
+      "norma" : 280101035,
+      "id" : "EL01",
+      "elemento" : "280101035EL01",
+      "descripcion" : "Verificar la viabilidad del mantenimiento interpretando la información suministrada"
+    },
+    {
+      "norma" : 280101035,
+      "id" : "EL02",
+      "elemento" : "280101035EL02",
+      "descripcion" : "Verificar el alistamiento en el sitio de trabajo para la ejecución del mantenimiento descrito en una orden de trabajo"
+    },
+    {
+      "norma" : 280101037,
+      "id" : "EL01",
+      "elemento" : "280101037EL01",
+      "descripcion" : "Coordinar la preparación de los elementos logísticos para la ejecución del mantenimiento."
+    },
+    {
+      "norma" : 280101037,
+      "id" : "EL02",
+      "elemento" : "280101037EL02",
+      "descripcion" : "Supervisar la ejecución del mantenimiento de red según lo indicado en la orden de trabajo."
+    },
+    {
+      "norma" : 280101037,
+      "id" : "EL03",
+      "elemento" : "280101037EL03",
+      "descripcion" : "Elaborar el informe de gestión para la evaluación del mantenimiento"
+    },
+    {
+      "norma" : 280101038,
+      "id" : "EL01",
+      "elemento" : "280101038EL01",
+      "descripcion" : "Ejecutar actividades para determinar el área de falla presentada en el sistema de redes de distribución"
+    },
+    {
+      "norma" : 280101038,
+      "id" : "EL02",
+      "elemento" : "280101038EL02",
+      "descripcion" : "Coordinar la reparación de la falla presentada en el sistema de redes de distribución."
+    },
+    {
+      "norma" : 280101041,
+      "id" : "EL01",
+      "elemento" : "280101041EL01",
+      "descripcion" : "Maniobrar equipos y herramientas requeridos para la ejecución del mantenimiento descrito en la orden de trabajo."
+    },
+    {
+      "norma" : 280101041,
+      "id" : "EL02",
+      "elemento" : "280101041EL02",
+      "descripcion" : "Realizar pruebas de funcionamiento de los elementos y/o equipos para su puesta en operación"
+    },
+    {
+      "norma" : 280101041,
+      "id" : "EL03",
+      "elemento" : "280101041EL03",
+      "descripcion" : "Reparar y/o cambiar componentes descritos en la orden de trabajo."
+    },
+    {
+      "norma" : 280101054,
+      "id" : "EL01",
+      "elemento" : "280101054EL01",
+      "descripcion" : "Realizar trazado de acuerdo con normas, planos y especificaciones."
+    },
+    {
+      "norma" : 280101054,
+      "id" : "EL02",
+      "elemento" : "280101054EL02",
+      "descripcion" : "Acondicionar mampostería para instalación de ductos y accesorios según planos eléctricos."
+    },
+    {
+      "norma" : 280101054,
+      "id" : "EL03",
+      "elemento" : "280101054EL03",
+      "descripcion" : "Unir ductería y accesorios en instalaciones de acuerdo con procedimientos establecidos."
+    },
+    {
+      "norma" : 280101054,
+      "id" : "EL04",
+      "elemento" : "280101054EL04",
+      "descripcion" : "Tender ductería de instalaciones eléctricas según procedimientos."
+    },
+    {
+      "norma" : 280101054,
+      "id" : "EL05",
+      "elemento" : "280101054EL05",
+      "descripcion" : "Instalar caja de acuerdo con requerimiento técnico."
+    },
+    {
+      "norma" : 280101054,
+      "id" : "EL06",
+      "elemento" : "280101054EL06",
+      "descripcion" : "Cablear ductería de acuerdo con normas, planos y especificaciones."
+    },
+    {
+      "norma" : 280101054,
+      "id" : "EL07",
+      "elemento" : "280101054EL07",
+      "descripcion" : "Empalmar conductores según planos eléctricos."
+    },
+    {
+      "norma" : 280101055,
+      "id" : "EL01",
+      "elemento" : "280101055EL01",
+      "descripcion" : "Medir resistencia de aislamiento, según normatividad vigente."
+    },
+    {
+      "norma" : 280101055,
+      "id" : "EL02",
+      "elemento" : "280101055EL02",
+      "descripcion" : "Poner en funcionamiento la instalación, según diseño eléctrico."
+    },
+    {
+      "norma" : 280101056,
+      "id" : "EL01",
+      "elemento" : "280101056EL01",
+      "descripcion" : "Embalar equipos, herramientas y materiales cumpliendo parámetros definidos en los procedimientos de trabajo."
+    },
+    {
+      "norma" : 280101056,
+      "id" : "EL02",
+      "elemento" : "280101056EL02",
+      "descripcion" : "Verificar el estado técnico de equipos, herramientas y materiales de acuerdo con las recomendaciones del fabricante."
+    },
+    {
+      "norma" : 280101057,
+      "id" : "EL01",
+      "elemento" : "280101057EL01",
+      "descripcion" : "Vestir estructuras de acuerdo al diseño establecido en la orden de trabajo."
+    },
+    {
+      "norma" : 280101057,
+      "id" : "EL02",
+      "elemento" : "280101057EL02",
+      "descripcion" : "Tensar conductores eléctricos aplicando normas y procedimientos."
+    },
+    {
+      "norma" : 280101059,
+      "id" : "EL01",
+      "elemento" : "280101059EL01",
+      "descripcion" : "Instalar transformadores, equipos de medida, protección y seccionamiento según lo establecido en la orden de trabajo."
+    },
+    {
+      "norma" : 280101059,
+      "id" : "EL02",
+      "elemento" : "280101059EL02",
+      "descripcion" : "Verificar el estado general de los equipos y componentes de la red eléctrica a instalar de acuerdo con las recomendaciones del fabricante."
+    },
+    {
+      "norma" : 280101062,
+      "id" : "EL01",
+      "elemento" : "280101062EL01",
+      "descripcion" : "Verificar el cumplimiento de procedimientos y normatividad en seguridad y sanidad industrial de acuerdo al plan."
+    },
+    {
+      "norma" : 280101062,
+      "id" : "EL02",
+      "elemento" : "280101062EL02",
+      "descripcion" : "Aprobar el estado de los elementos de seguridad industrial para determinar condiciones de uso."
+    },
+    {
+      "norma" : 280101062,
+      "id" : "EL03",
+      "elemento" : "280101062EL03",
+      "descripcion" : "Coordinar el alistamiento del sitio de trabajo para la ejecución del mantenimiento descrito en la orden de trabajo"
+    },
+    {
+      "norma" : 280101062,
+      "id" : "EL04",
+      "elemento" : "280101062EL04",
+      "descripcion" : "Supervisar el retiro de materiales y elementos contaminantes provenientes de la ejecución de la orden de trabajo."
+    },
+    {
+      "norma" : 280101065,
+      "id" : "EL01",
+      "elemento" : "280101065EL01",
+      "descripcion" : "Embalar equipos, materiales y herramientas cumpliendo parámetros definidos por los proveedores para el transporte (g.2.3.3)."
+    },
+    {
+      "norma" : 280101065,
+      "id" : "EL02",
+      "elemento" : "280101065EL02",
+      "descripcion" : "Cargar y/o descargar equipos, materiales y herramientas cumpliendo parámetros (g.2.3.4)."
+    },
+    {
+      "norma" : 280101066,
+      "id" : "EL01",
+      "elemento" : "280101066EL01",
+      "descripcion" : "Armar estructuras de soporte cumpliendo con las especificaciones establecidas en el diseño (c.2.1.1)."
+    },
+    {
+      "norma" : 280101066,
+      "id" : "EL02",
+      "elemento" : "280101066EL02",
+      "descripcion" : "Ubicar los equipos, herramientas y componentes cumpliendo con las especificaciones establecidas en el diseño (c.2.1.2)."
+    },
+    {
+      "norma" : 280101067,
+      "id" : "EL01",
+      "elemento" : "280101067EL01",
+      "descripcion" : "Cumplir con las normas de seguridad, salud ocupacional de acuerdo con las actividades estipuladas en la orden de trabajo."
+    },
+    {
+      "norma" : 280101067,
+      "id" : "EL02",
+      "elemento" : "280101067EL02",
+      "descripcion" : "Ejecutar el programa relacionada con el manejo ambiental de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 280101068,
+      "id" : "EL01",
+      "elemento" : "280101068EL01",
+      "descripcion" : "Reparar y reemplazar los componentes descritos en una orden de trabajo de mantenimiento de líneas de transmisión."
+    },
+    {
+      "norma" : 280101068,
+      "id" : "EL02",
+      "elemento" : "280101068EL02",
+      "descripcion" : "Maniobrar equipos, herramientas y materiales requeridas para la ejecución de órdenes de trabajo en mantenimiento de líneas de transmisión."
+    },
+    {
+      "norma" : 280101068,
+      "id" : "EL03",
+      "elemento" : "280101068EL03",
+      "descripcion" : "Hacer mediciones de acuerdo con los procedimientos y normas establecidas."
+    },
+    {
+      "norma" : 280101069,
+      "id" : "EL01",
+      "elemento" : "280101069EL01",
+      "descripcion" : "Preparar información técnica que permita evaluar resultados del mantenimiento."
+    },
+    {
+      "norma" : 280101069,
+      "id" : "EL02",
+      "elemento" : "280101069EL02",
+      "descripcion" : "Ejecutar el aprestamiento en el sitio de trabajo para la ejecución del mantenimiento descrito en una orden de trabajo."
+    },
+    {
+      "norma" : 260401009,
+      "id" : "EL01",
+      "elemento" : "260401009EL01",
+      "descripcion" : "Verificar las condiciones generales del vehículo de acuerdo con manuales y normatividad vigente."
+    },
+    {
+      "norma" : 260401009,
+      "id" : "EL02",
+      "elemento" : "260401009EL02",
+      "descripcion" : "Aplicar técnicas de conducción teniendo en cuenta la normatividad vigente."
+    },
+    {
+      "norma" : 260401010,
+      "id" : "EL01",
+      "elemento" : "260401010EL01",
+      "descripcion" : "Generar estrategia operativa de acuerdo con resultados de la evaluación de riesgos, amenazas y vulnerabilidades."
+    },
+    {
+      "norma" : 260401010,
+      "id" : "EL02",
+      "elemento" : "260401010EL02",
+      "descripcion" : "Determinar la logística teniendo en cuenta recursos y condiciones especiales de los protegidos y normatividad vigente."
+    },
+    {
+      "norma" : 260401011,
+      "id" : "EL01",
+      "elemento" : "260401011EL01",
+      "descripcion" : "Reconocer posibles riesgos y amenazas de acuerdo con el entorno del protegido."
+    },
+    {
+      "norma" : 260401011,
+      "id" : "EL02",
+      "elemento" : "260401011EL02",
+      "descripcion" : "Actuar ante situaciones cotidianas y / o especiales de acuerdo con los escenarios del protegido."
+    },
+    {
+      "norma" : 260401013,
+      "id" : "EL01",
+      "elemento" : "260401013EL01",
+      "descripcion" : "Controlar el ingreso y salida de personas, de acuerdo con los procedimientos establecidos por la organización y normas vigentes"
+    },
+    {
+      "norma" : 260401013,
+      "id" : "EL02",
+      "elemento" : "260401013EL02",
+      "descripcion" : "Controlar el ingreso y salida de vehículos de las áreas a proteger, de acuerdo con los procedimientos establecidos por la organización y normas vigentes"
+    },
+    {
+      "norma" : 260401013,
+      "id" : "EL03",
+      "elemento" : "260401013EL03",
+      "descripcion" : "Controlar el ingreso y salida de equipos, mercancías y elementos de las áreas a proteger, de acuerdo con los procedimientos establecidos por la organización y normas vigentes."
+    },
+    {
+      "norma" : 260401015,
+      "id" : "EL01",
+      "elemento" : "260401015EL01",
+      "descripcion" : "Preparar el proceso de instalación de acuerdo con el formato de zonificación, plano y/o bosquejo y listado de equipos"
+    },
+    {
+      "norma" : 260401015,
+      "id" : "EL02",
+      "elemento" : "260401015EL02",
+      "descripcion" : "Ejecutar la labor de instalación teniendo en cuenta lo acordado con el cliente y fichas técnicas de los equipos."
+    },
+    {
+      "norma" : 260401017,
+      "id" : "EL01",
+      "elemento" : "260401017EL01",
+      "descripcion" : "Verificar el diseño de instalación según el bosquejo y / o formato de zonificación"
+    },
+    {
+      "norma" : 260401017,
+      "id" : "EL02",
+      "elemento" : "260401017EL02",
+      "descripcion" : "Configurar los equipos teniendo en cuenta el manual de programación y necesidades del cliente."
+    },
+    {
+      "norma" : 260401018,
+      "id" : "EL01",
+      "elemento" : "260401018EL01",
+      "descripcion" : "Ejecutar el mantenimiento preventivo de los medios tecnológicos teniendo en cuenta el tipo de contrato y procedimientos de la organización."
+    },
+    {
+      "norma" : 260401018,
+      "id" : "EL02",
+      "elemento" : "260401018EL02",
+      "descripcion" : "Solucionar las fallas presentadas en los medios tecnológicos manifestadas por los clientes y / o informadas por la central de operaciones, teniendo en cuenta reporte de mantenimiento y procedimientos de la organización."
+    },
+    {
+      "norma" : 260401019,
+      "id" : "EL01",
+      "elemento" : "260401019EL01",
+      "descripcion" : "Verificar la implementación de los planes de acción aprobados por el cliente de acuerdo con las propuestas."
+    },
+    {
+      "norma" : 260401019,
+      "id" : "EL02",
+      "elemento" : "260401019EL02",
+      "descripcion" : "Medir la efectividad de la aplicación del plan en relación con el cambio esperado en el nivel de los riesgos identificados."
+    },
+    {
+      "norma" : 260401020,
+      "id" : "EL01",
+      "elemento" : "260401020EL01",
+      "descripcion" : "Reconocer los riesgos y las fuentes generadoras teniendo en cuenta los antecedentes, el estado actual y proyectado."
+    },
+    {
+      "norma" : 260401020,
+      "id" : "EL02",
+      "elemento" : "260401020EL02",
+      "descripcion" : "Valorar los riesgos y las fuentes generadoras, aplicando normas, métodos y técnicas aceptadas por la organización"
+    },
+    {
+      "norma" : 260401022,
+      "id" : "EL01",
+      "elemento" : "260401022EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Diagnosticar el riesgo, Reportar actividades"
+    },
+    {
+      "norma" : 260401023,
+      "id" : "EL01",
+      "elemento" : "260401023EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Clasificar situaciones de crisis, Controlar situaciones de crisis"
+    },
+    {
+      "norma" : 260401032,
+      "id" : "EL01",
+      "elemento" : "260401032EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Caracterizar las personas a proteger, Determinar los riesgos del protegido, Estimar los riesgos del protegido"
+    },
+    {
+      "norma" : 260401034,
+      "id" : "EL01",
+      "elemento" : "260401034EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Disponer el servicio de respuesta, Notificar resultados del servicio"
+    },
+    {
+      "norma" : 260401036,
+      "id" : "EL01",
+      "elemento" : "260401036EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Determinar señales de alarmas, Procesar la información"
+    },
+    {
+      "norma" : 230101227,
+      "id" : "EL01",
+      "elemento" : "230101227EL01",
+      "descripcion" : "Elaborar la matriz de riesgos de la empresa de acuerdo con normas establecidas."
+    },
+    {
+      "norma" : 230101227,
+      "id" : "EL02",
+      "elemento" : "230101227EL02",
+      "descripcion" : "Realizar investigación y seguimiento de accidentes e incidentes laborales en la empresa según delegación y normatividad establecida."
+    },
+    {
+      "norma" : 230101227,
+      "id" : "EL03",
+      "elemento" : "230101227EL03",
+      "descripcion" : "Efectuar las inspecciones de seguridad verificando el cumplimiento de estándares de equipos, herramientas y elementos de protección personal en la empresa según delegación y normatividad vigente."
+    },
+    {
+      "norma" : 230101227,
+      "id" : "EL04",
+      "elemento" : "230101227EL04",
+      "descripcion" : "Elaborar análisis de riesgos por oficio (aro) de acuerdo con características del puesto de trabajo."
+    },
+    {
+      "norma" : 230101104,
+      "id" : "EL01",
+      "elemento" : "230101104EL01",
+      "descripcion" : "Realizar acciones de prevención de incidentes acorde con la normativa vigente y las medidas de seguridad recomendadas."
+    },
+    {
+      "norma" : 230101104,
+      "id" : "EL02",
+      "elemento" : "230101104EL02",
+      "descripcion" : "Recomendar las acciones preventivas de acuerdo con las características del entorno y la normatividad vigente."
+    },
+    {
+      "norma" : 230101030,
+      "id" : "EL01",
+      "elemento" : "230101030EL01",
+      "descripcion" : "Mantener ambientes de trabajos seguros y saludables, según reglamentación institucional y normativa legal vigente."
+    },
+    {
+      "norma" : 230101030,
+      "id" : "EL02",
+      "elemento" : "230101030EL02",
+      "descripcion" : "Ejecutar prácticas de trabajo seguras y saludables, según reglamentación institucional y normativa legal vigente."
+    },
+    {
+      "norma" : 230101007,
+      "id" : "EL01",
+      "elemento" : "230101007EL01",
+      "descripcion" : "Realizar las actividades de vigilancia epidemiológica asignadas de acuerdo con los factores de riesgo priorizados por la empresa y normativa legal vigente."
+    },
+    {
+      "norma" : 230101007,
+      "id" : "EL02",
+      "elemento" : "230101007EL02",
+      "descripcion" : "Promover en los trabajadores hábitos de trabajo seguro de acuerdo con lineamientos del programa de salud ocupacional de la empresa."
+    },
+    {
+      "norma" : 230101003,
+      "id" : "EL01",
+      "elemento" : "230101003EL01",
+      "descripcion" : "Orientar a la persona en el proceso de afiliación al sistema general de seguridad social en salud de acuerdo con políticas institucionales y normativa vigente"
+    },
+    {
+      "norma" : 230101003,
+      "id" : "EL02",
+      "elemento" : "230101003EL02",
+      "descripcion" : "Tramitar la afiliación la persona al sistema general de seguridad social en salud de acuerdo con políticas institucionales y normativa vigente."
+    },
+    {
+      "norma" : 220201034,
+      "id" : "EL01",
+      "elemento" : "220201034EL01",
+      "descripcion" : "Alistar los residuos potencialmente reciclables según procedimientos establecidos y normatividad vigente."
+    },
+    {
+      "norma" : 220201034,
+      "id" : "EL02",
+      "elemento" : "220201034EL02",
+      "descripcion" : "Disponer temporalmente los residuos potencialmente reciclables seleccionados según procedimientos establecidos y normatividad vigente"
+    },
+    {
+      "norma" : 220201055,
+      "id" : "EL01",
+      "elemento" : "220201055EL01",
+      "descripcion" : "Alistar las operaciones para la limpieza de las instalaciones de almacenamiento y conducción de agua potable de acuerdo con procedimientos establecidos y normatividad vigente."
+    },
+    {
+      "norma" : 220201055,
+      "id" : "EL02",
+      "elemento" : "220201055EL02",
+      "descripcion" : "Desarrollar la limpieza de las instalaciones de almacenamiento y conducción de agua potable de acuerdo con procedimientos establecidos y normatividad vigente."
+    },
+    {
+      "norma" : 220201055,
+      "id" : "EL03",
+      "elemento" : "220201055EL03",
+      "descripcion" : "Comprobar la limpieza de las instalaciones de almacenamiento y conducción de agua potable de acuerdo con procedimientos establecidos y normatividad vigente."
+    },
+    {
+      "norma" : 220201072,
+      "id" : "EL01",
+      "elemento" : "220201072EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Diagnosticar el consumo energético, Preparar el plan de gestión, Implementar el plan de gestión"
+    },
+    {
+      "norma" : 210302001,
+      "id" : "EL01",
+      "elemento" : "210302001EL01",
+      "descripcion" : "Valuar inmuebles urbanos teniendo en cuenta el enfoque de mercado."
+    },
+    {
+      "norma" : 210302001,
+      "id" : "EL02",
+      "elemento" : "210302001EL02",
+      "descripcion" : "Valuar inmuebles urbanos teniendo en cuenta enfoques diferentes al de mercado."
+    },
+    {
+      "norma" : 210302003,
+      "id" : "EL01",
+      "elemento" : "210302003EL01",
+      "descripcion" : "Valuar inmuebles especiales teniendo en cuenta el enfoque de mercado."
+    },
+    {
+      "norma" : 210302003,
+      "id" : "EL02",
+      "elemento" : "210302003EL02",
+      "descripcion" : "Valuar inmuebles especiales teniendo en cuenta enfoques diferentes al de mercado"
+    },
+    {
+      "norma" : 210302006,
+      "id" : "EL01",
+      "elemento" : "210302006EL01",
+      "descripcion" : "Valuar inmuebles rurales teniendo en cuenta el enfoque de mercado."
+    },
+    {
+      "norma" : 210302006,
+      "id" : "EL02",
+      "elemento" : "210302006EL02",
+      "descripcion" : "Valuar inmuebles rurales teniendo en cuenta enfoques diferentes al de mercado."
+    },
+    {
+      "norma" : 210302008,
+      "id" : "EL01",
+      "elemento" : "210302008EL01",
+      "descripcion" : "Aplicar metodologías para la valoración empresas según normas y legislación vigentes"
+    },
+    {
+      "norma" : 210302008,
+      "id" : "EL02",
+      "elemento" : "210302008EL02",
+      "descripcion" : "Aplicar metodologías para la valoración de intangibles empresariales siguiendo normas y legislación vigentes"
+    },
+    {
+      "norma" : 260601007,
+      "id" : "EL01",
+      "elemento" : "260601007EL01",
+      "descripcion" : "Atender la necesidad del cliente de acuerdo con los medios disponibles por la organización"
+    },
+    {
+      "norma" : 260601008,
+      "id" : "EL01",
+      "elemento" : "260601008EL01",
+      "descripcion" : "Programar la prestación del servicio de acuerdo con la normativa vigente, productos y disponibilidad de la organización"
+    },
+    {
+      "norma" : 210301001,
+      "id" : "EL01",
+      "elemento" : "210301001EL01",
+      "descripcion" : "Efectuar la evaluación y calificación de cartera de acuerdo con normas legales e"
+    },
+    {
+      "norma" : 210301001,
+      "id" : "EL02",
+      "elemento" : "210301001EL02",
+      "descripcion" : "Efectuar la evaluación y calificación de cartera de acuerdo con normas legales e institucionales"
+    },
+    {
+      "norma" : 210301001,
+      "id" : "EL03",
+      "elemento" : "210301001EL03",
+      "descripcion" : "Normalizar la cartera de créditos de acuerdo con la política de crédito institucional."
+    },
+    {
+      "norma" : 210301001,
+      "id" : "EL04",
+      "elemento" : "210301001EL04",
+      "descripcion" : "Gestionar y hacer efectivas las garantías mediante el recibo en dación de pago o remate"
+    },
+    {
+      "norma" : 210301002,
+      "id" : "EL01",
+      "elemento" : "210301002EL01",
+      "descripcion" : "Identificar al cliente de acuerdo con las políticas institucionales."
+    },
+    {
+      "norma" : 210301002,
+      "id" : "EL02",
+      "elemento" : "210301002EL02",
+      "descripcion" : "Perfilar al cliente para ofrecer soluciones financieras acordes a sus necesidades."
+    },
+    {
+      "norma" : 210301002,
+      "id" : "EL03",
+      "elemento" : "210301002EL03",
+      "descripcion" : "Presentar el portafolio individualizado de productos y servicios financieros de acuerdo con las necesidades del cliente y políticas institucionales."
+    },
+    {
+      "norma" : 210301003,
+      "id" : "EL01",
+      "elemento" : "210301003EL01",
+      "descripcion" : "Verificar la información socio demográfica, comercial, financiera y de control estableciendo el perfil del cliente y su veracidad de acuerdo con las políticas establecidas."
+    },
+    {
+      "norma" : 210301003,
+      "id" : "EL02",
+      "elemento" : "210301003EL02",
+      "descripcion" : "Efectuar el análisis de la información suministrada por el cliente aplicando los criterios financieros económicos y de control definidos por cada entidad."
+    },
+    {
+      "norma" : 210301004,
+      "id" : "EL01",
+      "elemento" : "210301004EL01",
+      "descripcion" : "Efectuar seguimiento de los negocios de los clientes para asegurar el cumplimiento de las metas comerciales."
+    },
+    {
+      "norma" : 210301004,
+      "id" : "EL02",
+      "elemento" : "210301004EL02",
+      "descripcion" : "Ejecutar estrategias comerciales y de servicio con los clientes de acuerdo con las políticas institucionales."
+    },
+    {
+      "norma" : 210301005,
+      "id" : "EL01",
+      "elemento" : "210301005EL01",
+      "descripcion" : "Clasificar los resultados de las estadísticas para proyectar la composición de los ramos de seguros."
+    },
+    {
+      "norma" : 210301005,
+      "id" : "EL02",
+      "elemento" : "210301005EL02",
+      "descripcion" : "Examinar la cartera de primas para mejorar el resultado del negocio de acuerdo con los indicadores de gestión."
+    },
+    {
+      "norma" : 210301006,
+      "id" : "EL01",
+      "elemento" : "210301006EL01",
+      "descripcion" : "Verificar los contratos de reaseguros de acuerdo con las condiciones de los mismos."
+    },
+    {
+      "norma" : 210301006,
+      "id" : "EL02",
+      "elemento" : "210301006EL02",
+      "descripcion" : "Suscribir el contrato de seguros y atender las modificaciones de acuerdo con las condiciones aceptadas por el tomador."
+    },
+    {
+      "norma" : 210301006,
+      "id" : "EL03",
+      "elemento" : "210301006EL03",
+      "descripcion" : "Colocar excedentes de la capacidad de los contratos automáticos de reaseguros."
+    },
+    {
+      "norma" : 210301006,
+      "id" : "EL04",
+      "elemento" : "210301006EL04",
+      "descripcion" : "la información del negocio requerida para generar informes estadísticos."
+    },
+    {
+      "norma" : 210301008,
+      "id" : "EL01",
+      "elemento" : "210301008EL01",
+      "descripcion" : "Analizar cualitativa y cuantitativamente la producción y los siniestros, frente a las políticas de suscripción y la rentabilidad esperada."
+    },
+    {
+      "norma" : 210301008,
+      "id" : "EL02",
+      "elemento" : "210301008EL02",
+      "descripcion" : "Examinar los costos directos, indirectos y demás variables de la operación, determinando su efecto en el resultado del negocio."
+    },
+    {
+      "norma" : 210301008,
+      "id" : "EL03",
+      "elemento" : "210301008EL03",
+      "descripcion" : "Analizar la ejecución presupuestal de acuerdo con las metas institucionales."
+    },
+    {
+      "norma" : 210301009,
+      "id" : "EL01",
+      "elemento" : "210301009EL01",
+      "descripcion" : "Verificar la información ajustándose a las políticas de suscripción y a la normatividad vigente."
+    },
+    {
+      "norma" : 210301009,
+      "id" : "EL02",
+      "elemento" : "210301009EL02",
+      "descripcion" : "Realizar la visita de inspección de acuerdo con las normas y políticas de la compañía."
+    },
+    {
+      "norma" : 210301009,
+      "id" : "EL03",
+      "elemento" : "210301009EL03",
+      "descripcion" : "Emitir conceptos y recomendaciones para la aceptación del riesgo, de acuerdo con políticas de suscripción."
+    },
+    {
+      "norma" : 210301010,
+      "id" : "EL01",
+      "elemento" : "210301010EL01",
+      "descripcion" : "Tramitar las solicitudes de seguros, identificando la exposición al riesgo, de acuerdo con los manuales de suscripción."
+    },
+    {
+      "norma" : 210301010,
+      "id" : "EL02",
+      "elemento" : "210301010EL02",
+      "descripcion" : "Evaluar el riesgo según sus características aplicando las políticas de suscripción."
+    },
+    {
+      "norma" : 210301010,
+      "id" : "EL03",
+      "elemento" : "210301010EL03",
+      "descripcion" : "Definir la aceptación, aplazamiento o rechazo del riesgo aplicando las políticas de suscripción."
+    },
+    {
+      "norma" : 210301010,
+      "id" : "EL04",
+      "elemento" : "210301010EL04",
+      "descripcion" : "Determinar los límites de suscripción de la compañía ajustándose a los contratos de reaseguros."
+    },
+    {
+      "norma" : 210301011,
+      "id" : "EL01",
+      "elemento" : "210301011EL01",
+      "descripcion" : "Aplicar los procesos o procedimientos para la ejecución de los contratos de reaseguro."
+    },
+    {
+      "norma" : 210301011,
+      "id" : "EL02",
+      "elemento" : "210301011EL02",
+      "descripcion" : "Divulgar las condiciones del contrato, procesos y procedimientos establecidos, para su correcta utilización en aplicación de las normas de la compañía."
+    },
+    {
+      "norma" : 210301011,
+      "id" : "EL03",
+      "elemento" : "210301011EL03",
+      "descripcion" : "Ejecutar los procesos y procedimientos, dentro de las condiciones del contrato, ajustados a las normas y políticas de la compañía."
+    },
+    {
+      "norma" : 210301011,
+      "id" : "EL04",
+      "elemento" : "210301011EL04",
+      "descripcion" : "Generar informes estadísticos de los productos y contratos de reaseguros."
+    },
+    {
+      "norma" : 210301015,
+      "id" : "EL01",
+      "elemento" : "210301015EL01",
+      "descripcion" : "Efectuar seguimiento a los negocios de los clientes con el objeto de garantizar la estabilidad del negocio en cumplimiento de las metas técnicas y comerciales de la compañía"
+    },
+    {
+      "norma" : 210301015,
+      "id" : "EL02",
+      "elemento" : "210301015EL02",
+      "descripcion" : "Ejecutar estrategias de servicio con el objeto de garantizar la satisfacción del cliente y su fidelidad, de acuerdo con las políticas comerciales de la compañía."
+    },
+    {
+      "norma" : 210301016,
+      "id" : "EL01",
+      "elemento" : "210301016EL01",
+      "descripcion" : "Recibir y pagar fondos en moneda legal y extranjera de acuerdo con las normas establecidas."
+    },
+    {
+      "norma" : 210301016,
+      "id" : "EL02",
+      "elemento" : "210301016EL02",
+      "descripcion" : "Conciliar los movimientos de depósitos, transferencias, retiros y pagos de acuerdo con las normas y políticas de la entidad."
+    },
+    {
+      "norma" : 210301017,
+      "id" : "EL01",
+      "elemento" : "210301017EL01",
+      "descripcion" : "Recibir y tramitar las solicitudes de los productos y servicios financieros de acuerdo con las normas vigentes."
+    },
+    {
+      "norma" : 210301017,
+      "id" : "EL02",
+      "elemento" : "210301017EL02",
+      "descripcion" : "Constituir productos y servicios financieros de acuerdo con las normas legales e institucionales vigentes."
+    },
+    {
+      "norma" : 210301018,
+      "id" : "EL01",
+      "elemento" : "210301018EL01",
+      "descripcion" : "Desarrollar procesos de venta acorde con el modelo comercial establecido."
+    },
+    {
+      "norma" : 210301018,
+      "id" : "EL02",
+      "elemento" : "210301018EL02",
+      "descripcion" : "Prospectar y contactar al cliente de acuerdo con el modelo comercial de la organización."
+    },
+    {
+      "norma" : 210301018,
+      "id" : "EL03",
+      "elemento" : "210301018EL03",
+      "descripcion" : "Identificar la exposición a los peligros elaborando un inventario de riesgos."
+    },
+    {
+      "norma" : 210301018,
+      "id" : "EL04",
+      "elemento" : "210301018EL04",
+      "descripcion" : "Presentar y negociar el portafolio de soluciones de aseguramiento en términos de prevención y protección, acorde con las necesidades de los clientes."
+    },
+    {
+      "norma" : 210301018,
+      "id" : "EL05",
+      "elemento" : "210301018EL05",
+      "descripcion" : "Administrar el programa de seguros del cliente con base en lo pactado y sus necesidades de protección, dentro de las políticas institucionales."
+    },
+    {
+      "norma" : 210301018,
+      "id" : "EL06",
+      "elemento" : "210301018EL06",
+      "descripcion" : "Tramitar las reclamaciones por siniestros de acuerdo con el contrato de seguros y las políticas de servicio del asegurador."
+    },
+    {
+      "norma" : 210301021,
+      "id" : "EL01",
+      "elemento" : "210301021EL01",
+      "descripcion" : "Supervisar la aplicación de las normas y procedimientos en el sistema de prevención de lavado de activos y normatividad vigente."
+    },
+    {
+      "norma" : 210301021,
+      "id" : "EL02",
+      "elemento" : "210301021EL02",
+      "descripcion" : "Formalizar los negocios minimizando el riesgo financiero aplicando los criterios y políticas de la institución."
+    },
+    {
+      "norma" : 210301021,
+      "id" : "EL03",
+      "elemento" : "210301021EL03",
+      "descripcion" : "Controlar la calidad de los procesos operativos de su unidad de negocio de acuerdo con la política institucional."
+    },
+    {
+      "norma" : 210301023,
+      "id" : "EL01",
+      "elemento" : "210301023EL01",
+      "descripcion" : "Dirigir a las personas de la unidad de negocio en el cumplimiento de la cultura, política y procedimientos organizacionales."
+    },
+    {
+      "norma" : 210301023,
+      "id" : "EL02",
+      "elemento" : "210301023EL02",
+      "descripcion" : "Evaluar el desempeño y el resultado de las personas y equipos de trabajo de acuerdo con las políticas y planes de la organización."
+    },
+    {
+      "norma" : 210301031,
+      "id" : "EL01",
+      "elemento" : "210301031EL01",
+      "descripcion" : "Identificar y contactar al cliente de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301031,
+      "id" : "EL02",
+      "elemento" : "210301031EL02",
+      "descripcion" : "Diagnosticar la situación de los clientes para ofrecer soluciones fiduciarias a sus necesidades."
+    },
+    {
+      "norma" : 210301031,
+      "id" : "EL03",
+      "elemento" : "210301031EL03",
+      "descripcion" : "Ofrecer el portafolio de productos y servicios financieros de acuerdo a las necesidades del cliente."
+    },
+    {
+      "norma" : 210301032,
+      "id" : "EL01",
+      "elemento" : "210301032EL01",
+      "descripcion" : "Efectuar el análisis del cliente de acuerdo con las políticas institucionales y la normatividad vigente."
+    },
+    {
+      "norma" : 210301032,
+      "id" : "EL02",
+      "elemento" : "210301032EL02",
+      "descripcion" : "Consultar el riesgo jurídico de acuerdo con las condiciones de negocio propuesto."
+    },
+    {
+      "norma" : 210301032,
+      "id" : "EL03",
+      "elemento" : "210301032EL03",
+      "descripcion" : "Realizar el análisis operativo del negocio fiduciario de acuerdo con la normatividad vigente y las condiciones del fideicomitente."
+    },
+    {
+      "norma" : 210301032,
+      "id" : "EL04",
+      "elemento" : "210301032EL04",
+      "descripcion" : "Elaborar la propuesta del negocio de acuerdo con diagnóstico establecido."
+    },
+    {
+      "norma" : 210301033,
+      "id" : "EL01",
+      "elemento" : "210301033EL01",
+      "descripcion" : "Tramitar el contrato fiduciario de acuerdo con su objeto, políticas institucionales y normatividad vigente."
+    },
+    {
+      "norma" : 210301033,
+      "id" : "EL02",
+      "elemento" : "210301033EL02",
+      "descripcion" : "Gestionar los documentos de inicio del negocio fiduciario de acuerdo con las condiciones pactadas con el cliente y la normatividad vigente."
+    },
+    {
+      "norma" : 210301035,
+      "id" : "EL01",
+      "elemento" : "210301035EL01",
+      "descripcion" : "Cumplir con los procedimientos internos de la operatividad de las inversiones ajustándose a las políticas de la sociedad fiduciaria y normatividad vigente."
+    },
+    {
+      "norma" : 210301035,
+      "id" : "EL02",
+      "elemento" : "210301035EL02",
+      "descripcion" : "Custodiar bienes y recursos recibidos de acuerdo con las normas de seguridad de la institución y normatividad vigente."
+    },
+    {
+      "norma" : 210301037,
+      "id" : "EL01",
+      "elemento" : "210301037EL01",
+      "descripcion" : "Recibir los bienes y/o recursos objeto del negocio, de acuerdo con lo establecido en el contrato fiduciario y la normatividad vigente."
+    },
+    {
+      "norma" : 210301037,
+      "id" : "EL02",
+      "elemento" : "210301037EL02",
+      "descripcion" : "Definir el proceso operativo de acuerdo con el tipo de negocio fiduciario, política institucional y normatividad vigente."
+    },
+    {
+      "norma" : 210301037,
+      "id" : "EL03",
+      "elemento" : "210301037EL03",
+      "descripcion" : "Desarrollar el negocio de acuerdo con el contrato fiduciario y los procedimientos establecidos."
+    },
+    {
+      "norma" : 210301037,
+      "id" : "EL04",
+      "elemento" : "210301037EL04",
+      "descripcion" : "Liquidar el contrato fiduciario de acuerdo con lo establecido contractualmente y la normatividad vigente."
+    },
+    {
+      "norma" : 210301046,
+      "id" : "EL01",
+      "elemento" : "210301046EL01",
+      "descripcion" : "Validar la conformidad de la operación en moneda extranjera, de acuerdo a las políticas internas y manuales de procedimiento vigentes."
+    },
+    {
+      "norma" : 210301046,
+      "id" : "EL02",
+      "elemento" : "210301046EL02",
+      "descripcion" : "Establecer técnicamente la consistencia de la operación en moneda extranjera, de acuerdo con la normatividad nacional e internacional."
+    },
+    {
+      "norma" : 210301047,
+      "id" : "EL01",
+      "elemento" : "210301047EL01",
+      "descripcion" : "Tramitar la operación en moneda extranjera, de acuerdo con la solicitud del cliente y las condiciones aprobadas."
+    },
+    {
+      "norma" : 210301047,
+      "id" : "EL02",
+      "elemento" : "210301047EL02",
+      "descripcion" : "Realizar seguimiento al producto en moneda extranjera, de acuerdo con el procedimiento establecido."
+    },
+    {
+      "norma" : 210301048,
+      "id" : "EL01",
+      "elemento" : "210301048EL01",
+      "descripcion" : "Obtener información de las actividades comerciales y financieras del cliente, para identificar el producto o servicio a ofrecer en moneda extranjera."
+    },
+    {
+      "norma" : 210301048,
+      "id" : "EL02",
+      "elemento" : "210301048EL02",
+      "descripcion" : "Comprobar la viabilidad de realizar negocios en moneda extranjera con el cliente, de acuerdo con políticas internas e internacionales."
+    },
+    {
+      "norma" : 210301049,
+      "id" : "EL01",
+      "elemento" : "210301049EL01",
+      "descripcion" : "Realizar el estudio de la situación financiera y comercial del cliente, de acuerdo con la solicitud crediticia, normatividad vigente y las políticas de la entidad."
+    },
+    {
+      "norma" : 210301049,
+      "id" : "EL02",
+      "elemento" : "210301049EL02",
+      "descripcion" : "Tramitar la operación crediticia, de acuerdo con sus características y política comercial de la entidad."
+    },
+    {
+      "norma" : 210301050,
+      "id" : "EL01",
+      "elemento" : "210301050EL01",
+      "descripcion" : "Informar al cliente los productos y servicios en moneda extranjera aprobados de acuerdo con la política institucional."
+    },
+    {
+      "norma" : 210301050,
+      "id" : "EL02",
+      "elemento" : "210301050EL02",
+      "descripcion" : "Acordar las condiciones financieras de la operación en moneda extranjera, de acuerdo con la política institucional y el tipo de cliente."
+    },
+    {
+      "norma" : 210301051,
+      "id" : "EL01",
+      "elemento" : "210301051EL01",
+      "descripcion" : "Contactar los bancos corresponsales, de acuerdo con el plan estratégico de la institución, las necesidades identificadas y servicios ofrecidos."
+    },
+    {
+      "norma" : 210301051,
+      "id" : "EL02",
+      "elemento" : "210301051EL02",
+      "descripcion" : "Determinar la viabilidad de operar con bancos corresponsales, de acuerdo a las políticas institucionales, cambiarias e internacionales."
+    },
+    {
+      "norma" : 210301052,
+      "id" : "EL01",
+      "elemento" : "210301052EL01",
+      "descripcion" : "Negociar términos y condiciones de prestación del servicio, de acuerdo con las condiciones del mercado."
+    },
+    {
+      "norma" : 210301052,
+      "id" : "EL02",
+      "elemento" : "210301052EL02",
+      "descripcion" : "Aprobar la corresponsalía de acuerdo con las políticas de la entidad."
+    },
+    {
+      "norma" : 210301053,
+      "id" : "EL01",
+      "elemento" : "210301053EL01",
+      "descripcion" : "Asegurar la disponibilidad de recursos y/o servicios de acuerdo con las necesidades de la institución."
+    },
+    {
+      "norma" : 210301053,
+      "id" : "EL02",
+      "elemento" : "210301053EL02",
+      "descripcion" : "Monitorear las condiciones de las líneas de productos y/o servicios, de acuerdo con las condiciones del mercado y políticas internas."
+    },
+    {
+      "norma" : 210301054,
+      "id" : "EL01",
+      "elemento" : "210301054EL01",
+      "descripcion" : "Prospectar e identificar al cliente de acuerdo con las políticas institucionales y la normatividad vigente."
+    },
+    {
+      "norma" : 210301054,
+      "id" : "EL02",
+      "elemento" : "210301054EL02",
+      "descripcion" : "Identificar y diagnosticar las necesidades reales del cliente de acuerdo con su perfil y planes a futuro."
+    },
+    {
+      "norma" : 210301054,
+      "id" : "EL03",
+      "elemento" : "210301054EL03",
+      "descripcion" : "Presentar el portafolio de productos y servicios logrando la vinculación a la AFP de acuerdo con el perfil del cliente y la normatividad vigente."
+    },
+    {
+      "norma" : 210301055,
+      "id" : "EL01",
+      "elemento" : "210301055EL01",
+      "descripcion" : "Efectuar seguimiento al afiliado asegurando el cumplimiento de las metas comerciales."
+    },
+    {
+      "norma" : 210301055,
+      "id" : "EL02",
+      "elemento" : "210301055EL02",
+      "descripcion" : "Ejecutar estrategias comerciales y de servicio que aumenten los vínculos con los clientes de acuerdo con las políticas institucionales a fin de mantener y o aumentar la rentabilidad de la entidad."
+    },
+    {
+      "norma" : 210301056,
+      "id" : "EL01",
+      "elemento" : "210301056EL01",
+      "descripcion" : "Revisar los documentos soporte del crédito de acuerdo con lo aprobado y la política institucional."
+    },
+    {
+      "norma" : 210301056,
+      "id" : "EL02",
+      "elemento" : "210301056EL02",
+      "descripcion" : "Verificar las garantías, seguros y títulos de acuerdo con el proyecto crediticio y normatividad vigente."
+    },
+    {
+      "norma" : 210301058,
+      "id" : "EL01",
+      "elemento" : "210301058EL01",
+      "descripcion" : "Reconocer las novedades y los aportes pensiónales de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301058,
+      "id" : "EL02",
+      "elemento" : "210301058EL02",
+      "descripcion" : "Generar información al afiliado sobre su cuenta, de acuerdo a las normas y procedimientos."
+    },
+    {
+      "norma" : 210301058,
+      "id" : "EL03",
+      "elemento" : "210301058EL03",
+      "descripcion" : "Gestionar novedades de actualización de información de acuerdo a los procedimientos vigentes."
+    },
+    {
+      "norma" : 210301059,
+      "id" : "EL01",
+      "elemento" : "210301059EL01",
+      "descripcion" : "Afiliar al afiliado de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301059,
+      "id" : "EL02",
+      "elemento" : "210301059EL02",
+      "descripcion" : "Trasladar las cuentas de los afiliados, de acuerdo con la voluntad del afiliado y la normatividad vigente."
+    },
+    {
+      "norma" : 210301059,
+      "id" : "EL03",
+      "elemento" : "210301059EL03",
+      "descripcion" : "Resolver inconsistencias de novedades de las afiliaciones o traslados de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301060,
+      "id" : "EL01",
+      "elemento" : "210301060EL01",
+      "descripcion" : "Acreditar los recaudos en las cuentas individuales de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301060,
+      "id" : "EL02",
+      "elemento" : "210301060EL02",
+      "descripcion" : "Gestionar las inconsistencias de recaudos de acuerdo con la normatividad vigente y los procesos establecidos."
+    },
+    {
+      "norma" : 210301061,
+      "id" : "EL01",
+      "elemento" : "210301061EL01",
+      "descripcion" : "Tramitar el bono pensional de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301061,
+      "id" : "EL02",
+      "elemento" : "210301061EL02",
+      "descripcion" : "Tramitar las solicitudes de pensión de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301061,
+      "id" : "EL03",
+      "elemento" : "210301061EL03",
+      "descripcion" : "Administrar, liquidar y pagar nómina de pensionados de acuerdo a la normatividad vigente."
+    },
+    {
+      "norma" : 210301062,
+      "id" : "EL01",
+      "elemento" : "210301062EL01",
+      "descripcion" : "Tramitar las solicitudes y novedades relacionadas con el estado de la afiliación de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301062,
+      "id" : "EL02",
+      "elemento" : "210301062EL02",
+      "descripcion" : "Tramitar las solicitudes y novedades relacionadas con el estado de la afiliación de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301063,
+      "id" : "EL01",
+      "elemento" : "210301063EL01",
+      "descripcion" : "Reconocer al afiliado de acuerdo con normas de seguridad y normatividad vigente."
+    },
+    {
+      "norma" : 210301063,
+      "id" : "EL02",
+      "elemento" : "210301063EL02",
+      "descripcion" : "Verificar los documentos soporte de la solicitud de retiro de acuerdo con normas de seguridad y normatividad vigente."
+    },
+    {
+      "norma" : 210301063,
+      "id" : "EL03",
+      "elemento" : "210301063EL03",
+      "descripcion" : "Realizar el pago del retiro de acuerdo con la solicitud del afiliado."
+    },
+    {
+      "norma" : 210301064,
+      "id" : "EL01",
+      "elemento" : "210301064EL01",
+      "descripcion" : "Dar respuesta a las reclamaciones del siniestro de acuerdo con el contrato de seguros."
+    },
+    {
+      "norma" : 210301064,
+      "id" : "EL02",
+      "elemento" : "210301064EL02",
+      "descripcion" : "Constituir las reservas para siniestros ajustadas a las condiciones de suscripción y del contrato del seguro."
+    },
+    {
+      "norma" : 210301064,
+      "id" : "EL03",
+      "elemento" : "210301064EL03",
+      "descripcion" : "Determinar la necesidad de la contratación de apoyo externo dadas las características de la reclamación, las condiciones especiales del reaseguro y condiciones de la póliza."
+    },
+    {
+      "norma" : 210301064,
+      "id" : "EL04",
+      "elemento" : "210301064EL04",
+      "descripcion" : "Analizar la documentación presentada de acuerdo con el contrato de seguros, con las normas y políticas de la compañía."
+    },
+    {
+      "norma" : 210301065,
+      "id" : "EL01",
+      "elemento" : "210301065EL01",
+      "descripcion" : "Cuantificar la perdida del siniestro de acuerdo con el contrato de seguros y la reglamentación vigente."
+    },
+    {
+      "norma" : 210301065,
+      "id" : "EL02",
+      "elemento" : "210301065EL02",
+      "descripcion" : "Ordenar el pago u objetar el siniestro de acuerdo con el contrato de seguros y la reglamentación vigente."
+    },
+    {
+      "norma" : 210301065,
+      "id" : "EL03",
+      "elemento" : "210301065EL03",
+      "descripcion" : "Valorar las recuperaciones y salvamento derivadas de las indemnizaciones de acuerdo a la normatividad vigente."
+    },
+    {
+      "norma" : 210301065,
+      "id" : "EL04",
+      "elemento" : "210301065EL04",
+      "descripcion" : "Consolidar el informe del riesgo de acuerdo con el análisis de la reclamación , el contrato de seguros afectado y las políticas de suscripción de la compañía."
+    },
+    {
+      "norma" : 210301066,
+      "id" : "EL01",
+      "elemento" : "210301066EL01",
+      "descripcion" : "Verificar la suscripción del riesgo de acuerdo a las normas y políticas de suscripción de la compañía."
+    },
+    {
+      "norma" : 210301066,
+      "id" : "EL02",
+      "elemento" : "210301066EL02",
+      "descripcion" : "Revisar el cumplimiento de las políticas y manuales de riesgos del negocio de seguros, de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301067,
+      "id" : "EL01",
+      "elemento" : "210301067EL01",
+      "descripcion" : "Tarifar el riesgo de acuerdo con sus características aplicando las políticas de suscripción."
+    },
+    {
+      "norma" : 210301067,
+      "id" : "EL02",
+      "elemento" : "210301067EL02",
+      "descripcion" : "Presentar los términos y condiciones de la oferta de acuerdo con el análisis efectuado."
+    },
+    {
+      "norma" : 210301068,
+      "id" : "EL01",
+      "elemento" : "210301068EL01",
+      "descripcion" : "Solicitar y hacer seguimiento a la apertura o cancelación de productos financieros, de acuerdo con las necesidades del negocio y la normatividad vigente."
+    },
+    {
+      "norma" : 210301068,
+      "id" : "EL02",
+      "elemento" : "210301068EL02",
+      "descripcion" : "Registrar los recaudos de acuerdo con la operatividad del negocio y procedimientos institucionales."
+    },
+    {
+      "norma" : 210301068,
+      "id" : "EL03",
+      "elemento" : "210301068EL03",
+      "descripcion" : "Realizar los pagos y cancelaciones en moneda nacional y extranjera de acuerdo con la operatividad del negocio y procedimientos institucionales."
+    },
+    {
+      "norma" : 210301068,
+      "id" : "EL04",
+      "elemento" : "210301068EL04",
+      "descripcion" : "Conciliar los movimientos de recaudos y pagos de acuerdo con las normas y políticas de la entidad."
+    },
+    {
+      "norma" : 210301076,
+      "id" : "EL01",
+      "elemento" : "210301076EL01",
+      "descripcion" : "Planear procesos formativos de protección al consumidor financiero de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210301076,
+      "id" : "EL02",
+      "elemento" : "210301076EL02",
+      "descripcion" : "Orientar la formación de acuerdo con las necesidades del consumidor financiero y normatividad vigente."
+    },
+    {
+      "norma" : 210301077,
+      "id" : "EL01",
+      "elemento" : "210301077EL01",
+      "descripcion" : "Captar clientes y/o asociados de acuerdo a las normas legales y políticas institucionales."
+    },
+    {
+      "norma" : 210301077,
+      "id" : "EL02",
+      "elemento" : "210301077EL02",
+      "descripcion" : "Originar productos y servicios micro financieros de acuerdo a las normas legales y políticas institucionales."
+    },
+    {
+      "norma" : 210301078,
+      "id" : "EL01",
+      "elemento" : "210301078EL01",
+      "descripcion" : "Realizar el seguimiento de cartera al día de acuerdo con las políticas institucionales."
+    },
+    {
+      "norma" : 210301078,
+      "id" : "EL02",
+      "elemento" : "210301078EL02",
+      "descripcion" : "Recuperar la cartera vencida de acuerdo con las políticas institucionales."
+    },
+    {
+      "norma" : 210301079,
+      "id" : "EL01",
+      "elemento" : "210301079EL01",
+      "descripcion" : "Verificar la documentación aportada por el cliente según normatividad vigente y políticas institucionales"
+    },
+    {
+      "norma" : 210301079,
+      "id" : "EL02",
+      "elemento" : "210301079EL02",
+      "descripcion" : "Sistematizar la información aportada de acuerdo con los procedimientos institucionales"
+    },
+    {
+      "norma" : 210301080,
+      "id" : "EL01",
+      "elemento" : "210301080EL01",
+      "descripcion" : "Efectuar las operaciones requeridas en cada negocio, según el contrato fiduciario, los procedimientos establecidos y la normatividad vigente"
+    },
+    {
+      "norma" : 210301080,
+      "id" : "EL02",
+      "elemento" : "210301080EL02",
+      "descripcion" : "Asistir la liquidación del contrato fiduciario de acuerdo con lo establecido contractualmente, la normatividad vigente y las políticas de la entidad"
+    },
+    {
+      "norma" : 210301082,
+      "id" : "EL01",
+      "elemento" : "210301082EL01",
+      "descripcion" : "Cumplir procedimientos establecidos para el manejo de valores de acuerdo con las políticas del establecimiento."
+    },
+    {
+      "norma" : 210301082,
+      "id" : "EL02",
+      "elemento" : "210301082EL02",
+      "descripcion" : "Recibir el pago de las cuentas de acuerdo con los procedimientos establecidos."
+    },
+    {
+      "norma" : 210301085,
+      "id" : "EL01",
+      "elemento" : "210301085EL01",
+      "descripcion" : "Recordar el pago de obligaciones contraídas por los clientes, según fechas de vencimiento y procedimientos establecidos."
+    },
+    {
+      "norma" : 210301085,
+      "id" : "EL02",
+      "elemento" : "210301085EL02",
+      "descripcion" : "Cobrar obligaciones vencidas según normas legales y procedimientos establecidos por la organización."
+    },
+    {
+      "norma" : 290302022,
+      "id" : "EL01",
+      "elemento" : "290302022EL01",
+      "descripcion" : "Verificar las condiciones de operación de los equipos de GNCV de acuerdo con las normas y manuales de operación del fabricante."
+    },
+    {
+      "norma" : 290302022,
+      "id" : "EL02",
+      "elemento" : "290302022EL02",
+      "descripcion" : "Proveer el servicio de llenado de GNCV a los vehículos, siguiendo los procedimientos establecidos por el fabricante del surtidor y la empresa."
+    },
+    {
+      "norma" : 290302023,
+      "id" : "EL01",
+      "elemento" : "290302023EL01",
+      "descripcion" : "Verificar las condiciones de operación de los equipos de suministro de acuerdo con las normas y manuales de operación del fabricante."
+    },
+    {
+      "norma" : 290302023,
+      "id" : "EL02",
+      "elemento" : "290302023EL02",
+      "descripcion" : "Suministrar combustibles líquidos a los equipos y vehículos de acuerdo con estándares de operación y normatividad vigentes."
+    },
+    {
+      "norma" : 240403007,
+      "id" : "EL01",
+      "elemento" : "240403007EL01",
+      "descripcion" : "Presentar pliego de cargos de acuerdo con el marco jurídico."
+    },
+    {
+      "norma" : 240403007,
+      "id" : "EL02",
+      "elemento" : "240403007EL02",
+      "descripcion" : "Proyectar el fallo de primera o única instancia de acuerdo con el marco jurídico."
+    },
+    {
+      "norma" : 240403008,
+      "id" : "EL01",
+      "elemento" : "240403008EL01",
+      "descripcion" : "Estudiar información según el soporte físico o por sistema de información."
+    },
+    {
+      "norma" : 240403008,
+      "id" : "EL02",
+      "elemento" : "240403008EL02",
+      "descripcion" : "Analizar elementos materiales probatorios (emp) o evidencia física (ef) según normatividad vigente."
+    },
+    {
+      "norma" : 240403009,
+      "id" : "EL01",
+      "elemento" : "240403009EL01",
+      "descripcion" : "Evaluar la noticia frente al marco legal disciplinario vigente."
+    },
+    {
+      "norma" : 240403009,
+      "id" : "EL02",
+      "elemento" : "240403009EL02",
+      "descripcion" : "Practicar pruebas conforme con la normatividad legal vigente."
+    },
+    {
+      "norma" : 240403009,
+      "id" : "EL03",
+      "elemento" : "240403009EL03",
+      "descripcion" : "Adoptar la decisión según el caso objeto de análisis."
+    },
+    {
+      "norma" : 240403012,
+      "id" : "EL01",
+      "elemento" : "240403012EL01",
+      "descripcion" : "Adelantar proceso verbal disciplinario según normatividad vigente"
+    },
+    {
+      "norma" : 240403012,
+      "id" : "EL02",
+      "elemento" : "240403012EL02",
+      "descripcion" : "Formalizar la sanción de acuerdo con legislación vigente."
+    },
+    {
+      "norma" : 240403015,
+      "id" : "EL01",
+      "elemento" : "240403015EL01",
+      "descripcion" : "Aplicar el sistema de cadena de custodia según la normatividad vigente."
+    },
+    {
+      "norma" : 240403015,
+      "id" : "EL02",
+      "elemento" : "240403015EL02",
+      "descripcion" : "Custodiar elemento material probatorio y evidencia física (emp/ef) de acuerdo con la normatividad y procedimientos vigentes."
+    },
+    {
+      "norma" : 240403027,
+      "id" : "EL01",
+      "elemento" : "240403027EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son:  Tramitar solicitud, Orientar audiencia, Legalizar acuerdo"
+    },
+    {
+      "norma" : 240403031,
+      "id" : "EL01",
+      "elemento" : "240403031EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Preparar audiencia, Conducir audiencia"
+    },
+    {
+      "norma" : 260102018,
+      "id" : "EL01",
+      "elemento" : "260102018EL01",
+      "descripcion" : "Actividades Clave Caracterizar PQRS, Orientar el proceso de solución, Escalar PQRS"
+    },
+    {
+      "norma" : 210303003,
+      "id" : "EL01",
+      "elemento" : "210303003EL01",
+      "descripcion" : "Elaborar el plan de la unidad de negocio de acuerdo con criterios de calidad, eficiencia y rentabilidad definidos por la institución."
+    },
+    {
+      "norma" : 210303003,
+      "id" : "EL02",
+      "elemento" : "210303003EL02",
+      "descripcion" : "Desarrollar el plan de la unidad de negocio de acuerdo con las metas propuestas por la institución."
+    },
+    {
+      "norma" : 210303004,
+      "id" : "EL01",
+      "elemento" : "210303004EL01",
+      "descripcion" : "Gestionar la operatividad de las inversiones y los recursos, en lo relacionado con depósitos de títulos valores de acuerdo a la política interna y normatividad vigente."
+    },
+    {
+      "norma" : 210303004,
+      "id" : "EL02",
+      "elemento" : "210303004EL02",
+      "descripcion" : "Velar por el cumplimiento y debida diligencia a lo contractualmente establecido con el cliente de acuerdo con las normas y procedimientos establecidos."
+    },
+    {
+      "norma" : 210303004,
+      "id" : "EL03",
+      "elemento" : "210303004EL03",
+      "descripcion" : "Gestionar la liquidez de acuerdo a lo establecido contractualmente y ajustándose a las políticas de la sociedad fiduciaria."
+    },
+    {
+      "norma" : 210303007,
+      "id" : "EL01",
+      "elemento" : "210303007EL01",
+      "descripcion" : "Verificar el cumplimiento del sistema de control interno de conformidad con las políticas organizacionales."
+    },
+    {
+      "norma" : 210303007,
+      "id" : "EL02",
+      "elemento" : "210303007EL02",
+      "descripcion" : "Identificar las debilidades y/o fortalezas del sistema de control interno de acuerdo con políticas organizacionales."
+    },
+    {
+      "norma" : 210303014,
+      "id" : "EL01",
+      "elemento" : "210303014EL01",
+      "descripcion" : "Situar los recursos para cada área y proyecto establecido en el plan financiero de la organización."
+    },
+    {
+      "norma" : 210303014,
+      "id" : "EL02",
+      "elemento" : "210303014EL02",
+      "descripcion" : "Ejecutar los recursos de operación, inversión y financiación de acuerdo al plan financiero de la organización."
+    },
+    {
+      "norma" : 210303015,
+      "id" : "EL01",
+      "elemento" : "210303015EL01",
+      "descripcion" : "Atender y responder requerimientos según el procedimiento tributario vigente."
+    },
+    {
+      "norma" : 210303015,
+      "id" : "EL02",
+      "elemento" : "210303015EL02",
+      "descripcion" : "Liquidar sanciones según imposiciones y disposiciones fiscales."
+    },
+    {
+      "norma" : 210303016,
+      "id" : "EL01",
+      "elemento" : "210303016EL01",
+      "descripcion" : "Analizar la información de la organización para establecer la estrategia tributaria."
+    },
+    {
+      "norma" : 210303016,
+      "id" : "EL02",
+      "elemento" : "210303016EL02",
+      "descripcion" : "Elaborar el plan de acción tributario de acuerdo a las normas vigentes y a las políticas organizacionales."
+    },
+    {
+      "norma" : 210303017,
+      "id" : "EL01",
+      "elemento" : "210303017EL01",
+      "descripcion" : "Realizar la apertura del presupuesto aprobado de acuerdo con el estatuto orgánico del presupuesto y el catalogo general de cuentas."
+    },
+    {
+      "norma" : 210303017,
+      "id" : "EL02",
+      "elemento" : "210303017EL02",
+      "descripcion" : "Registrar la ejecución presupuestal de acuerdo con el presupuesto aprobado, el catalogo general de cuentas y el manual de procedimientos."
+    },
+    {
+      "norma" : 210303017,
+      "id" : "EL03",
+      "elemento" : "210303017EL03",
+      "descripcion" : "Ejecutar el cierre del presupuesto aprobado de acuerdo con el estatuto orgánico del presupuesto y el catalogo general de cuentas."
+    },
+    {
+      "norma" : 210303019,
+      "id" : "EL01",
+      "elemento" : "210303019EL01",
+      "descripcion" : "Presentar estados y reportes contables, con base en la normatividad contable pública."
+    },
+    {
+      "norma" : 210303019,
+      "id" : "EL02",
+      "elemento" : "210303019EL02",
+      "descripcion" : "Elaborar notas cuantitativas y cualitativas a los estados contables de acuerdo con la normatividad contable pública."
+    },
+    {
+      "norma" : 210303022,
+      "id" : "EL01",
+      "elemento" : "210303022EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Organizar soportes, Registrar hechos económicos"
+    },
+    {
+      "norma" : 210303023,
+      "id" : "EL01",
+      "elemento" : "210303023EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Organizar elementos, Consolidar operaciones"
+    },
+    {
+      "norma" : 210303025,
+      "id" : "EL01",
+      "elemento" : "210303025EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Valorar elementos, Preparar información"
+    },
+    {
+      "norma" : 210303026,
+      "id" : "EL01",
+      "elemento" : "210303026EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Calcular componentes, Preparar documento"
+    },
+    {
+      "norma" : 210303027,
+      "id" : "EL01",
+      "elemento" : "210303027EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Preparar información, Calcular indicadores"
+    },
+    {
+      "norma" : 210303028,
+      "id" : "EL01",
+      "elemento" : "210303028EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Diagnosticar necesidades, Proyectar alternativas"
+    },
+    {
+      "norma" : 210001004,
+      "id" : "EL01",
+      "elemento" : "210001004EL01",
+      "descripcion" : "Planificar los sistemas de gestión según el marco estratégico."
+    },
+    {
+      "norma" : 210001004,
+      "id" : "EL02",
+      "elemento" : "210001004EL02",
+      "descripcion" : "Monitorear la implementación los sistemas de gestión según lo planificado."
+    },
+    {
+      "norma" : 210001004,
+      "id" : "EL03",
+      "elemento" : "210001004EL03",
+      "descripcion" : "Enfocar el desarrollo los sistemas de gestión según las oportunidades de mejora identificadas."
+    },
+    {
+      "norma" : 210001005,
+      "id" : "EL01",
+      "elemento" : "210001005EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Establecer lineamientos de diagnóstico. Monitorear el desarrollo del diagnóstico. Evaluar resultados del diagnóstico."
+    },
+    {
+      "norma" : 210001006,
+      "id" : "EL01",
+      "elemento" : "210001006EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Establecer el diseño del marco estratégico, Estructurar los fines organizacionales"
+    },
+    {
+      "norma" : 210001007,
+      "id" : "EL01",
+      "elemento" : "210001007EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Alinear las estrategias de la organización, Verificar el cumplimiento de fines organizacionales."
+    },
+    {
+      "norma" : 210001008,
+      "id" : "EL01",
+      "elemento" : "210001008EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Adoptar el modelo de desarrollo organizacional. Adoptar el modelo de desarrollo organizacional. Implementar el modelo de desarrollo organizacional"
+    },
+    {
+      "norma" : 210601003,
+      "id" : "EL01",
+      "elemento" : "210601003EL01",
+      "descripcion" : "Desarrollar los programas de la unidad administrativa, siguiendo los lineamientos establecidos por la organización"
+    },
+    {
+      "norma" : 210601003,
+      "id" : "EL02",
+      "elemento" : "210601003EL02",
+      "descripcion" : "Ejecutar las actividades que se deriven de la función de la unidad administrativa, de acuerdo con el manual de procedimientos"
+    },
+    {
+      "norma" : 210601004,
+      "id" : "EL01",
+      "elemento" : "210601004EL01",
+      "descripcion" : "Preparar la proyección periódica de requerimientos de los recursos físicos, teniendo en cuenta necesidades organizacionales."
+    },
+    {
+      "norma" : 210601004,
+      "id" : "EL02",
+      "elemento" : "210601004EL02",
+      "descripcion" : "Recibir elementos de acuerdo con los procedimientos organizacionales."
+    },
+    {
+      "norma" : 210601004,
+      "id" : "EL03",
+      "elemento" : "210601004EL03",
+      "descripcion" : "Despachar elementos teniendo en cuenta necesidades organizacionales."
+    },
+    {
+      "norma" : 210601004,
+      "id" : "EL04",
+      "elemento" : "210601004EL04",
+      "descripcion" : "Elaborar informes siguiendo procedimientos internos y normas técnicas."
+    },
+    {
+      "norma" : 210601005,
+      "id" : "EL01",
+      "elemento" : "210601005EL01",
+      "descripcion" : "Ejecutar la toma de inventarios de acuerdo con normas organizacionales."
+    },
+    {
+      "norma" : 210601005,
+      "id" : "EL02",
+      "elemento" : "210601005EL02",
+      "descripcion" : "Aplicar metodologías para el manejo de inventarios con base en procedimientos organizacionales."
+    },
+    {
+      "norma" : 210601005,
+      "id" : "EL03",
+      "elemento" : "210601005EL03",
+      "descripcion" : "Clasificar los inventarios en devolutivos y de consumo teniendo en cuenta procedimientos internos."
+    },
+    {
+      "norma" : 210601007,
+      "id" : "EL01",
+      "elemento" : "210601007EL01",
+      "descripcion" : "Proyectar los recursos asociados al proceso de acuerdo con las necesidades de la organización."
+    },
+    {
+      "norma" : 210601007,
+      "id" : "EL02",
+      "elemento" : "210601007EL02",
+      "descripcion" : "Gestionar los recursos del proceso de acuerdo con procedimientos organizacionales y normatividad vigente."
+    },
+    {
+      "norma" : 210601008,
+      "id" : "EL01",
+      "elemento" : "210601008EL01",
+      "descripcion" : "Recibir documentos de acuerdo con normas vigentes."
+    },
+    {
+      "norma" : 210601008,
+      "id" : "EL02",
+      "elemento" : "210601008EL02",
+      "descripcion" : "Despachar documentos teniendo en cuenta la normatividad vigente y políticas de la organización."
+    },
+    {
+      "norma" : 210601008,
+      "id" : "EL03",
+      "elemento" : "210601008EL03",
+      "descripcion" : "Archivar documentos de la unidad administrativa de acuerdo con la normatividad vigente."
+    },
+    {
+      "norma" : 210601008,
+      "id" : "EL04",
+      "elemento" : "210601008EL04",
+      "descripcion" : "Proveer información de acuerdo con normatividad y políticas organizacionales"
+    },
+    {
+      "norma" : 210601009,
+      "id" : "EL01",
+      "elemento" : "210601009EL01",
+      "descripcion" : "Evaluar los resultados de la medición de clima organizacional, teniendo en cuenta las necesidades de la organización."
+    },
+    {
+      "norma" : 210601009,
+      "id" : "EL02",
+      "elemento" : "210601009EL02",
+      "descripcion" : "Desarrollar acciones de intervención según resultados y políticas de la organización."
+    },
+    {
+      "norma" : 210601012,
+      "id" : "EL01",
+      "elemento" : "210601012EL01",
+      "descripcion" : "Operar recursos tecnológicos teniendo en cuenta los procesos y procedimientos establecidos por la organización y los estándares de calidad."
+    },
+    {
+      "norma" : 210601012,
+      "id" : "EL02",
+      "elemento" : "210601012EL02",
+      "descripcion" : "Controlar recursos y herramientas tecnológicas para el procesamiento de la información de la unidad administrativa de acuerdo con las políticas de la organización."
+    },
+    {
+      "norma" : 210601012,
+      "id" : "EL03",
+      "elemento" : "210601012EL03",
+      "descripcion" : "Utilizar sistemas de información de acuerdo con los requerimientos de la unidad administrativa."
+    },
+    {
+      "norma" : 210601016,
+      "id" : "EL01",
+      "elemento" : "210601016EL01",
+      "descripcion" : "Actualizar el registro de proveedores de productos y servicios de acuerdo con las normas vigentes."
+    },
+    {
+      "norma" : 210601016,
+      "id" : "EL02",
+      "elemento" : "210601016EL02",
+      "descripcion" : "Definir el plan de contratación teniendo en cuenta las necesidades y normatividad vigente."
+    },
+    {
+      "norma" : 210601016,
+      "id" : "EL03",
+      "elemento" : "210601016EL03",
+      "descripcion" : "Ejecutar el plan de contratación para productos y servicios de acuerdo con normas y legislación vigentes."
+    },
+    {
+      "norma" : 210601020,
+      "id" : "EL01",
+      "elemento" : "210601020EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Recepcionar requerimiento, Orientar respuesta"
+    },
+    {
+      "norma" : 210601021,
+      "id" : "EL01",
+      "elemento" : "210601021EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Preparar reuniones, Asistir reuniones"
+    },
+    {
+      "norma" : 210601024,
+      "id" : "EL01",
+      "elemento" : "210601024EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Proyectar textos Digitar textos"
+    },
+    {
+      "norma" : 210601026,
+      "id" : "EL01",
+      "elemento" : "210601026EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Recopilar datos Manejar datos"
+    },
+    {
+      "norma" : 260101010,
+      "id" : "EL01",
+      "elemento" : "260101010EL01",
+      "descripcion" : "Definir el concepto de comunicación de acuerdo con las necesidades de la organización y los clientes"
+    },
+    {
+      "norma" : 260101010,
+      "id" : "EL02",
+      "elemento" : "260101010EL02",
+      "descripcion" : "Determinar la estrategia creativa de acuerdo con los objetivos de comunicación y de mercadeo."
+    },
+    {
+      "norma" : 260101025,
+      "id" : "EL01",
+      "elemento" : "260101025EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Definir el concepto creativo, Elaborar bocetos de texto, Preparar diseño y artes finales de comunicación."
+    },
+    {
+      "norma" : 260101033,
+      "id" : "EL01",
+      "elemento" : "260101033EL01",
+      "descripcion" : "Actividades ClaveLas acciones fundamentales que se desarrollan para cumplir con la función son: Identificar prospectos. Caracterizar clientes potenciales."
+    }
+  ]}

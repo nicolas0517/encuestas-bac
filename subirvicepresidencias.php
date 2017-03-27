@@ -10,7 +10,6 @@
     if (isset($vicepresidencia) and isset($norma)) {
 
         $consulta=consultar($con,"INSERT INTO vicepresidencia_has_norma VALUES ($vicepresidencia, $norma)");
-        //$consulta=consultar($con,"DELETE FROM norma WHERE norma.k_numero=$codigo");
         $respuesta = 1;
 
     } else {
