@@ -116,7 +116,7 @@ $(document).ready(function() {
         //norma
         $.post("guardarnorma.php", { encuesta: numero_encuesta, norma: norma_escogida }, function(data) {
             resultado = data;
-            norma_escogida = null;
+            descripcion_norma = "";
         });
         //elementos
         for (var i = 0; i < elementos_seleccionados.length; i++) {

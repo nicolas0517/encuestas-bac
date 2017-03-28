@@ -8,7 +8,7 @@
 
         $con=conectar();
 
-        $consulta=consultar($con,"SELECT * FROM conocimiento WHERE k_elemento= '$filtro'");
+        $consulta=consultar($con,"SELECT * FROM conocimiento WHERE k_elemento= '$filtro' ORDER BY n_descripcion");
         $filas = mysqli_num_rows($consulta);
         if ($filas === 0) {
             $respuesta = "<p>No se encontraron conocimientos</p>";
